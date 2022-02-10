@@ -1,0 +1,2386 @@
+# text = Essa é a avaliação do Instituto Internacional de Estudos Estratégicos de Londres (IIEE), um dos mais importantes centros de pesquisa militar do Ocidente.
+# sent_id = CF828-7
+# source = CETENFolha n=828 cad=Mundo sec=pol sem=94b
+1	Essa	esse	PRON	O	Gender=Fem|Number=Sing|PronType=Dem	4	nsubj	_	_
+2	é	ser	AUX	O	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	a	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	avaliação	avaliação	NOUN	I	Gender=Fem|Number=Sing	0	root	_	_
+5-6	do	_	_	I	_	_	_	_	_
+5	de	de	ADP	I	_	7	case	_	_
+6	o	o	DET	I	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	Instituto	Instituto	PROPN	I	ExtPos=PROPN|Gender=Masc|Number=Sing	4	nmod	_	_
+8	Internacional	Internacional	PROPN	I	Number=Sing	7	flat:name	_	_
+9	de	de	ADP	I	_	10	case	_	_
+10	Estudos	Estudos	PROPN	I	Number=Sing	7	nmod	_	_
+11	Estratégicos	Estratégicos	PROPN	I	Number=Sing	10	flat:name	_	_
+12	de	de	ADP	I	_	13	case	_	_
+13	Londres	Londres	PROPN	I	Gender=Fem|Number=Sing	7	nmod	_	_
+14	(	(	PUNCT	O	_	15	punct	_	SpaceAfter=No
+15	IIEE	IIEE	PROPN	O	Gender=Masc|Number=Sing	7	appos	_	SpaceAfter=No
+16	)	)	PUNCT	O	_	15	punct	_	SpaceAfter=No
+17	,	,	PUNCT	O	_	18	punct	_	_
+18	um	um	DET	O	Gender=Masc|Number=Sing|PronType=Art	7	appos	_	_
+19-20	dos	_	_	O	_	_	_	_	_
+19	de	de	ADP	O	_	23	case	_	_
+20	os	o	DET	O	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	_	_
+21	mais	mais	ADV	O	_	22	advmod	_	_
+22	importantes	importante	ADJ	O	Gender=Masc|Number=Plur	23	amod	_	_
+23	centros	centro	NOUN	O	Gender=Masc|Number=Plur	18	nmod	_	_
+24	de	de	ADP	O	_	25	case	_	_
+25	pesquisa	pesquisa	NOUN	O	Gender=Fem|Number=Sing	23	nmod	_	_
+26	militar	militar	ADJ	O	Gender=Fem|Number=Sing	25	amod	_	_
+27-28	do	_	_	O	_	_	_	_	_
+27	de	de	ADP	O	_	29	case	_	_
+28	o	o	DET	O	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
+29	Ocidente	Ocidente	PROPN	O	Gender=Masc|Number=Sing	23	nmod	_	SpaceAfter=No
+30	.	.	PUNCT	O	_	4	punct	_	_
+
+# text = O acordo da dívida implica a troca dos papéis atuais por uma combinação de cinco tipos diferentes de novos papéis.
+# sent_id = CF509-6
+# source = CETENFolha n=509 cad=Dinheiro sec=eco sem=94b
+1	O	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	acordo	acordo	NOUN	I	Gender=Masc|Number=Sing	6	nsubj	_	_
+3-4	da	_	_	I	_	_	_	_	_
+3	de	de	ADP	I	_	5	case	_	_
+4	a	o	DET	I	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	dívida	dívida	NOUN	I	Gender=Fem|Number=Sing	2	nmod	_	_
+6	implica	implicar	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	a	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	troca	troca	NOUN	I	Gender=Fem|Number=Sing	6	obj	_	_
+9-10	dos	_	_	I	_	_	_	_	_
+9	de	de	ADP	I	_	11	case	_	_
+10	os	o	DET	I	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	papéis	papel	NOUN	I	Gender=Masc|Number=Plur	8	nmod	_	_
+12	atuais	atual	ADJ	I	Gender=Masc|Number=Plur	11	amod	_	_
+13	por	por	ADP	O	_	15	case	_	_
+14	uma	um	DET	B	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	combinação	combinação	NOUN	I	Gender=Fem|Number=Sing	8	nmod	_	_
+16	de	de	ADP	I	_	18	case	_	_
+17	cinco	cinco	NUM	I	NumType=Card	18	nummod	_	_
+18	tipos	tipo	NOUN	I	Gender=Masc|Number=Plur	15	nmod	_	_
+19	diferentes	diferente	ADJ	I	Gender=Masc|Number=Plur	18	amod	_	_
+20	de	de	ADP	I	_	22	case	_	_
+21	novos	novo	ADJ	I	Gender=Masc|Number=Plur	22	amod	_	_
+22	papéis	papel	NOUN	I	Gender=Masc|Number=Plur	18	nmod	_	SpaceAfter=No
+23	.	.	PUNCT	O	_	6	punct	_	_
+
+# text = Para o volante Dinho, um dos jogadores responsáveis pelo setor de marcação do Santos, é impossível segurar o ataque do São Paulo do técnico Telê Santana.
+# sent_id = CF726-3
+# source = CETENFolha n=726 cad=Esporte sec=des sem=94b
+1	Para	para	ADP	O	_	3	case	_	_
+2	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	volante	volante	NOUN	I	Gender=Masc|Number=Sing	21	obl	_	_
+4	Dinho	Dinho	PROPN	O	Gender=Masc|Number=Sing	3	appos	_	SpaceAfter=No
+5	,	,	PUNCT	O	_	3	punct	_	_
+6	um	um	NUM	O	NumType=Card	3	appos	_	_
+7-8	dos	_	_	O	_	_	_	_	_
+7	de	de	ADP	O	_	9	case	_	_
+8	os	o	DET	O	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	jogadores	jogador	NOUN	O	Gender=Masc|Number=Plur	6	nmod	_	_
+10	responsáveis	responsável	ADJ	O	Gender=Masc|Number=Plur	9	amod	_	_
+11-12	pelo	_	_	O	_	_	_	_	_
+11	por	por	ADP	O	_	13	case	_	_
+12	o	o	DET	O	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	setor	setor	NOUN	O	Gender=Masc|Number=Sing	10	obl	_	_
+14	de	de	ADP	O	_	15	case	_	_
+15	marcação	marcação	NOUN	O	Gender=Fem|Number=Sing	13	nmod	_	_
+16-17	do	_	_	O	_	_	_	_	_
+16	de	de	ADP	O	_	18	case	_	_
+17	o	o	DET	O	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	Santos	Santos	PROPN	O	Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
+19	,	,	PUNCT	O	_	6	punct	_	_
+20	é	ser	AUX	O	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	_
+21	impossível	impossível	ADJ	O	Gender=Masc|Number=Sing	0	root	_	_
+22	segurar	segurar	VERB	O	VerbForm=Inf	21	csubj	_	_
+23	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
+24	ataque	ataque	NOUN	I	Gender=Masc|Number=Sing	22	obj	_	_
+25-26	do	_	_	I	_	_	_	_	_
+25	de	de	ADP	I	_	27	case	_	_
+26	o	o	DET	I	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
+27	São	São	PROPN	I	ExtPos=PROPN|Gender=Masc|Number=Sing	24	nmod	_	_
+28	Paulo	Paulo	PROPN	I	Number=Sing	27	flat:name	_	_
+29-30	do	_	_	I	_	_	_	_	_
+29	de	de	ADP	I	_	31	case	_	_
+30	o	o	DET	I	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	det	_	_
+31	técnico	técnico	NOUN	I	Gender=Masc|Number=Sing	27	nmod	_	_
+32	Telê	Telê	PROPN	O	ExtPos=PROPN|Gender=Masc|Number=Sing	31	appos	_	_
+33	Santana	Santana	PROPN	O	Number=Sing	32	flat:name	_	SpaceAfter=No
+34	.	.	PUNCT	O	_	21	punct	_	_
+
+# text = A reunião terminou ontem em Budapeste.
+# sent_id = CF788-6
+# source = CETENFolha n=788 cad=Mundo sec=pol sem=94a
+1	A	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	reunião	reunião	NOUN	I	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	terminou	terminar	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	ontem	ontem	ADV	O	_	3	advmod	_	_
+5	em	em	ADP	O	_	6	case	_	_
+6	Budapeste	Budapeste	PROPN	B	Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
+7	.	.	PUNCT	B	_	3	punct	_	_
+
+# newdoc_id = CF295
+# text = CONCERTOS INTERNACIONAIS GLOBO, 0h.
+# sent_id = CF295-1
+# source = CETENFolha n=295 cad=TV Folha sec=clt-soc sem=94b
+1	CONCERTOS	CONCERTOS	PROPN	B	ExtPos=PROPN|Gender=Masc|Number=Plur	0	root	_	_
+2	INTERNACIONAIS	INTERNACIONAIS	PROPN	I	Number=Sing	1	flat:name	_	_
+3	GLOBO	GLOBO	PROPN	I	Number=Sing	1	flat:name	_	SpaceAfter=No
+4	,	,	PUNCT	O	_	5	punct	_	_
+5	0h	0h	NOUN	O	Gender=Fem|Number=Plur	1	appos	_	SpaceAfter=No
+6	.	.	PUNCT	O	_	1	punct	_	_
+
+# text = Segundo o presidente do Corecon, Hélio Portocarrero, a inflação do real não será puxada pelos oligopólios, apontados pela equipe econômica do governo como os principais vilões na subida de preços após a implantação da URV.
+# sent_id = CF857-6
+# source = CETENFolha n=857 cad=Caderno Especial sec=nd sem=94b
+1	Segundo	segundo	ADP	O	_	3	case	_	_
+2	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	presidente	presidente	NOUN	I	Gender=Masc|Number=Sing	18	obl	_	_
+4-5	do	_	_	I	_	_	_	_	_
+4	de	de	ADP	I	_	6	case	_	_
+5	o	o	DET	I	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	Corecon	Corecon	PROPN	I	Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	O	_	8	punct	_	_
+8	Hélio	Hélio	PROPN	O	ExtPos=PROPN|Gender=Masc|Number=Sing	6	appos	_	_
+9	Portocarrero	Portocarrero	PROPN	O	Number=Sing	8	flat:name	_	SpaceAfter=No
+10	,	,	PUNCT	O	_	8	punct	_	_
+11	a	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	inflação	inflação	NOUN	I	Gender=Fem|Number=Sing	18	nsubj:pass	_	_
+13-14	do	_	_	I	_	_	_	_	_
+13	de	de	ADP	I	_	15	case	_	_
+14	o	o	DET	I	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	real	real	NOUN	I	Gender=Masc|Number=Sing	12	nmod	_	_
+16	não	não	ADV	O	Polarity=Neg	18	advmod	_	_
+17	será	ser	AUX	O	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	18	aux:pass	_	_
+18	puxada	puxar	VERB	O	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	_
+19-20	pelos	_	_	O	_	_	_	_	_
+19	por	por	ADP	O	_	21	case	_	_
+20	os	o	DET	B	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
+21	oligopólios	oligopólio	NOUN	B	Gender=Masc|Number=Plur	18	obl:agent	_	SpaceAfter=No
+22	,	,	PUNCT	O	_	23	punct	_	_
+23	apontados	apontar	VERB	O	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	21	acl	_	_
+24-25	pela	_	_	O	_	_	_	_	_
+24	por	por	ADP	O	_	26	case	_	_
+25	a	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
+26	equipe	equipe	NOUN	I	Gender=Fem|Number=Sing	23	obl:agent	_	_
+27	econômica	econômico	ADJ	I	Gender=Fem|Number=Sing	26	amod	_	_
+28-29	do	_	_	I	_	_	_	_	_
+28	de	de	ADP	I	_	30	case	_	_
+29	o	o	DET	I	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
+30	governo	governo	NOUN	I	Gender=Masc|Number=Sing	26	nmod	_	_
+31	como	como	ADP	O	_	34	case	_	_
+32	os	o	DET	B	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	34	det	_	_
+33	principais	principal	ADJ	I	Gender=Masc|Number=Plur	34	amod	_	_
+34	vilões	vilão	NOUN	I	Gender=Masc|Number=Plur	23	xcomp	_	_
+35-36	na	_	_	O	_	_	_	_	_
+35	em	em	ADP	O	_	37	case	_	_
+36	a	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	37	det	_	_
+37	subida	subida	NOUN	I	Gender=Fem|Number=Sing	34	nmod	_	_
+38	de	de	ADP	I	_	39	case	_	_
+39	preços	preço	NOUN	I	Gender=Masc|Number=Plur	37	nmod	_	_
+40	após	após	ADP	I	_	42	case	_	_
+41	a	o	DET	I	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	42	det	_	_
+42	implantação	implantação	NOUN	I	Gender=Fem|Number=Sing	37	nmod	_	_
+43-44	da	_	_	I	_	_	_	_	_
+43	de	de	ADP	I	_	45	case	_	_
+44	a	o	DET	I	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	45	det	_	_
+45	URV	urv	NOUN	I	Gender=Fem|Number=Sing	42	nmod	_	SpaceAfter=No
+46	.	.	PUNCT	O	_	18	punct	_	_
+
+# text = Moreira Alves também votou a favor de Collor em outros dois mandatos de segurança, mas foi vencido nos dois julgamentos.
+# sent_id = CF50-3
+# source = CETENFolha n=50 cad=Brasil sec=pol sem=94a
+1	Moreira	Moreira	PROPN	B	ExtPos=PROPN|Gender=Masc|Number=Sing	4	nsubj	_	_
+2	Alves	Alves	PROPN	I	Number=Sing	1	flat:name	_	_
+3	também	também	ADV	O	_	4	advmod	_	_
+4	votou	votar	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	a	a	ADP	O	_	6	case	_	_
+6	favor	favor	NOUN	O	Gender=Masc|Number=Sing	4	obl	_	_
+7	de	de	ADP	O	_	8	case	_	_
+8	Collor	Collor	PROPN	B	Gender=Masc|Number=Sing	6	nmod	_	_
+9	em	em	ADP	O	_	12	case	_	_
+10	outros	outro	DET	O	Gender=Masc|Number=Plur|PronType=Ind	12	det	_	_
+11	dois	dois	NUM	B	NumType=Card	12	nummod	_	_
+12	mandatos	mandato	NOUN	I	Gender=Masc|Number=Plur	4	obl	_	_
+13	de	de	ADP	I	_	14	case	_	_
+14	segurança	segurança	NOUN	I	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	O	_	18	punct	_	_
+16	mas	mas	CCONJ	O	_	18	cc	_	_
+17	foi	ser	AUX	O	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	aux:pass	_	_
+18	vencido	vencer	VERB	O	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	4	conj	_	_
+19-20	nos	_	_	O	_	_	_	_	_
+19	em	em	ADP	O	_	22	case	_	_
+20	os	o	DET	B	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
+21	dois	dois	NUM	I	NumType=Card	22	nummod	_	_
+22	julgamentos	julgamento	NOUN	I	Gender=Masc|Number=Plur	18	obl	_	SpaceAfter=No
+23	.	.	PUNCT	O	_	4	punct	_	_
+
+# text = Apenas dois árbitros resolveram contar todos os podres, enquanto a federação tem mais de 70.
+# sent_id = CF8-7
+# source = CETENFolha n=8 cad=Esporte sec=des sem=94b
+1	Apenas	apenas	ADV	O	_	2	advmod	_	_
+2	dois	dois	NUM	B	NumType=Card	3	nummod	_	_
+3	árbitros	árbitro	NOUN	I	Gender=Masc|Number=Plur	4	nsubj	_	_
+4	resolveram	resolver	VERB	O	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
+5	contar	contar	VERB	O	VerbForm=Inf	4	xcomp	_	_
+6	todos	todo	DET	B	Gender=Masc|Number=Plur|PronType=Tot	8	det	_	_
+7	os	o	DET	I	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	podres	podre	NOUN	I	Gender=Masc|Number=Plur	5	obj	_	SpaceAfter=No
+9	,	,	PUNCT	O	_	5	punct	_	_
+10	enquanto	enquanto	ADV	O	_	13	advmod	_	_
+11	a	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	federação	federação	NOUN	I	Gender=Fem|Number=Sing	13	nsubj	_	_
+13	tem	ter	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+14	mais	mais	ADV	O	_	16	advmod	_	_
+15	de	de	ADP	O	_	14	fixed	_	_
+16	70	70	NUM	O	NumType=Card	13	obj	_	SpaceAfter=No
+17	.	.	PUNCT	O	_	4	punct	_	_
+
+# text = Estiveram presentes dirigentes do futebol, e autoridades policiais civis e militares.
+# sent_id = CF627-5
+# source = CETENFolha n=627 cad=Esporte sec=des sem=94a
+1	Estiveram	estar	AUX	O	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	2	cop	_	_
+2	presentes	presente	ADJ	O	Gender=Masc|Number=Plur	0	root	_	_
+3	dirigentes	dirigente	NOUN	B	Gender=Masc|Number=Plur	2	nsubj	_	_
+4-5	do	_	_	I	_	_	_	_	_
+4	de	de	ADP	I	_	6	case	_	_
+5	o	o	DET	I	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	futebol	futebol	NOUN	I	Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	O	_	9	punct	_	_
+8	e	e	CCONJ	O	_	9	cc	_	_
+9	autoridades	autoridade	NOUN	B	Gender=Fem|Number=Plur	3	conj	_	_
+10	policiais	policial	ADJ	I	Gender=Fem|Number=Plur	9	amod	_	_
+11	civis	civil	NOUN	I	Gender=Fem|Number=Plur	10	conj	_	_
+12	e	e	CCONJ	O	_	13	cc	_	_
+13	militares	militar	NOUN	B	Gender=Fem|Number=Plur	10	conj	_	SpaceAfter=No
+14	.	.	PUNCT	O	_	2	punct	_	_
+
+# text = Felicito.
+# sent_id = CF521-3
+# source = CETENFolha n=521 cad=Esporte sec=des sem=94b
+1	Felicito	felicitar	VERB	O	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	O	_	1	punct	_	_
+
+# newdoc_id = CF481
+# text = Convencido de que Munhoz tem uma boa retórica, o publicitário pretende deixar o candidato «falar o que quiser» para, antes da gravação final, decidir o que irá ao ar.
+# sent_id = CF481-1
+# source = CETENFolha n=481 cad=Caderno Especial sec=nd sem=94a
+1	Convencido	convencer	VERB	O	Gender=Masc|Number=Sing|VerbForm=Part	11	advcl	_	_
+2	de	de	SCONJ	O	_	5	mark	_	_
+3	que	que	SCONJ	O	_	5	mark	_	_
+4	Munhoz	Munhoz	PROPN	B	Gender=Masc|Number=Sing	5	nsubj	_	_
+5	tem	ter	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+6	uma	um	DET	B	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+7	boa	bom	ADJ	I	Gender=Fem|Number=Sing	8	amod	_	_
+8	retórica	retórica	NOUN	I	Gender=Fem|Number=Sing	5	obj	_	SpaceAfter=No
+9	,	,	PUNCT	O	_	5	punct	_	_
+10	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	publicitário	publicitário	NOUN	I	Gender=Masc|Number=Sing	12	nsubj	_	_
+12	pretende	pretender	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	deixar	deixar	VERB	O	VerbForm=Inf	12	xcomp	_	_
+14	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	candidato	candidato	NOUN	I	Gender=Masc|Number=Sing	12	nsubj	_	_
+16	«	«	PUNCT	O	_	17	punct	_	SpaceAfter=No
+17	falar	falar	VERB	O	Number=Sing|Person=3|VerbForm=Inf	13	ccomp	_	_
+18	o	o	PRON	O	Gender=Masc|Number=Sing|PronType=Dem	17	obj	_	_
+19	que	que	PRON	O	Gender=Masc|Number=Sing|PronType=Rel	20	obj	_	_
+20	quiser	querer	VERB	O	Mood=Sub|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	18	acl:relcl	_	SpaceAfter=No
+21	»	»	PUNCT	O	_	17	punct	_	_
+22	para	para	SCONJ	O	_	30	mark	_	SpaceAfter=No
+23	,	,	PUNCT	O	_	24	punct	_	_
+24	antes	antes	ADV	O	_	30	advmod	_	_
+25-26	da	_	_	O	_	_	_	_	_
+25	de	de	ADP	O	_	27	case	_	_
+26	a	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
+27	gravação	gravação	NOUN	I	Gender=Fem|Number=Sing	24	obl	_	_
+28	final	final	ADJ	I	Gender=Fem|Number=Sing	27	amod	_	SpaceAfter=No
+29	,	,	PUNCT	O	_	24	punct	_	_
+30	decidir	decidir	VERB	O	VerbForm=Inf	13	advcl	_	_
+31	o	o	PRON	O	Gender=Masc|Number=Sing|PronType=Dem	30	obj	_	_
+32	que	que	PRON	O	Gender=Masc|Number=Sing|PronType=Int	33	nsubj	_	_
+33	irá	ir	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	31	acl:relcl	_	_
+34-35	ao	_	_	O	_	_	_	_	_
+34	a	a	ADP	O	_	36	case	_	_
+35	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	36	det	_	_
+36	ar	ar	NOUN	I	Gender=Masc|Number=Sing	33	obl	_	SpaceAfter=No
+37	.	.	PUNCT	O	_	12	punct	_	_
+
+# text = Muller chega às 5h25 de hoje a São Paulo, vindo de Londres.
+# sent_id = CF283-3
+# source = CETENFolha n=283 cad=Esporte sec=des sem=94a
+1	Muller	Muller	PROPN	B	Gender=Masc|Number=Sing	2	nsubj	_	_
+2	chega	chegar	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3-4	às	_	_	O	_	_	_	_	_
+3	a	a	ADP	O	_	5	case	_	_
+4	as	o	DET	O	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	5h25	5h25	NOUN	O	Gender=Fem|Number=Plur	2	obl	_	_
+6	de	de	ADP	O	_	7	case	_	_
+7	hoje	hoje	ADV	O	_	5	advmod	_	_
+8	a	a	ADP	O	_	9	case	_	_
+9	São	São	PROPN	B	ExtPos=PROPN|Gender=Masc|Number=Sing	2	obl	_	_
+10	Paulo	Paulo	PROPN	I	Number=Sing	9	flat:name	_	SpaceAfter=No
+11	,	,	PUNCT	O	_	12	punct	_	_
+12	vindo	vir	VERB	O	VerbForm=Ger	2	advcl	_	_
+13	de	de	ADP	O	_	14	case	_	_
+14	Londres	Londres	PROPN	B	Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
+15	.	.	PUNCT	O	_	2	punct	_	_
+
+# text = A maior desaceleração ocorreu na região da Avenida Faria Lima.
+# sent_id = CF793-4
+# source = CETENFolha n=793 cad=Dinheiro sec=eco sem=94a
+1	A	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+2	maior	grande	ADJ	I	Gender=Fem|Number=Sing	3	amod	_	_
+3	desaceleração	desaceleração	NOUN	I	Gender=Fem|Number=Sing	4	nsubj	_	_
+4	ocorreu	ocorrer	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5-6	na	_	_	O	_	_	_	_	_
+5	em	em	ADP	O	_	7	case	_	_
+6	a	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	região	região	NOUN	I	Gender=Fem|Number=Sing	4	obl	_	_
+8-9	da	_	_	I	_	_	_	_	_
+8	de	de	ADP	I	_	10	case	_	_
+9	a	o	DET	I	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	Avenida	Avenida	PROPN	I	ExtPos=PROPN|Gender=Fem|Number=Sing	7	nmod	_	_
+11	Faria	Faria	PROPN	I	Number=Sing	10	flat:name	_	_
+12	Lima	Lima	PROPN	I	Number=Sing	10	flat:name	_	SpaceAfter=No
+13	.	.	PUNCT	O	_	4	punct	_	_
+
+# newdoc_id = CF744
+# text = Modelo sindical e negociação coletiva
+# sent_id = CF744-1
+# source = CETENFolha n=744 cad=Dinheiro sec=eco sem=94a
+1	Modelo	modelo	NOUN	B	Gender=Masc|Number=Sing	0	root	_	_
+2	sindical	sindical	ADJ	I	Gender=Masc|Number=Sing	1	amod	_	_
+3	e	e	CCONJ	O	_	4	cc	_	_
+4	negociação	negociação	NOUN	B	Gender=Fem|Number=Sing	1	conj	_	_
+5	coletiva	coletivo	ADJ	I	Gender=Fem|Number=Sing	4	amod	_	_
+
+# text = A equipe enfrenta o time carioca às 20h30 no ginásio do Tijuca Tênis Clune
+# sent_id = CF404-5
+# source = CETENFolha n=404 cad=Esporte sec=des sem=94a
+1	A	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	equipe	equipe	NOUN	I	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	enfrenta	enfrentar	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	time	time	NOUN	I	Gender=Masc|Number=Sing	3	obj	_	_
+6	carioca	carioca	ADJ	I	Gender=Masc|Number=Sing	5	amod	_	_
+7-8	às	_	_	O	_	_	_	_	_
+7	a	a	ADP	O	_	9	case	_	_
+8	as	o	DET	O	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	20h30	20h30	NOUN	O	Gender=Fem|Number=Plur	3	obl	_	_
+10-11	no	_	_	O	_	_	_	_	_
+10	em	em	ADP	O	_	12	case	_	_
+11	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	ginásio	ginásio	NOUN	I	Gender=Masc|Number=Sing	3	obl	_	_
+13-14	do	_	_	I	_	_	_	_	_
+13	de	de	ADP	I	_	15	case	_	_
+14	o	o	DET	I	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	Tijuca	Tijuca	PROPN	I	ExtPos=PROPN|Gender=Masc|Number=Sing	12	nmod	_	_
+16	Tênis	Tênis	PROPN	I	Number=Sing	15	flat:name	_	_
+17	Clune	Clune	PROPN	I	Number=Sing	15	flat:name	_	_
+
+# newdoc_id = CF477
+# text = As vendas brutas caíram de US$ 3,78 bilhões para US$ 3,57 bilhões, consequência de reduções tanto no mercado interno como no externo.
+# sent_id = CF477-1
+# source = CETENFolha n=477 cad=Dinheiro sec=eco sem=94b
+1	As	o	DET	B	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	vendas	venda	NOUN	I	Gender=Fem|Number=Plur	4	nsubj	_	_
+3	brutas	bruto	ADJ	I	Gender=Fem|Number=Plur	2	amod	_	_
+4	caíram	cair	VERB	O	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
+5	de	de	ADP	O	_	6	case	_	_
+6	US$	US$	SYM	O	_	4	obl	_	_
+7	3,78	3,78	NUM	O	NumType=Card	6	nummod	_	_
+8	bilhões	bilhão	NUM	O	NumType=Card	7	flat	_	_
+9	para	para	ADP	O	_	10	case	_	_
+10	US$	US$	SYM	O	_	4	obl	_	_
+11	3,57	3,57	NUM	O	NumType=Card	10	nummod	_	_
+12	bilhões	bilhão	NUM	O	NumType=Card	11	flat	_	SpaceAfter=No
+13	,	,	PUNCT	O	_	4	punct	_	_
+14	consequência	consequência	NOUN	B	Gender=Fem|Number=Sing	4	obl	_	_
+15	de	de	ADP	I	_	16	case	_	_
+16	reduções	redução	NOUN	I	Gender=Fem|Number=Plur	14	nmod	_	_
+17	tanto	tanto	ADV	O	_	20	cc	_	_
+18-19	no	_	_	O	_	_	_	_	_
+18	em	em	ADP	O	_	20	case	_	_
+19	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	mercado	mercado	NOUN	I	Gender=Masc|Number=Sing	16	nmod	_	_
+21	interno	interno	ADJ	I	Gender=Masc|Number=Sing	20	amod	_	_
+22	como	como	ADV	O	_	25	cc	_	_
+23-24	no	_	_	O	_	_	_	_	_
+23	em	em	ADP	O	_	25	case	_	_
+24	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+25	externo	externo	NOUN	I	Gender=Masc|Number=Sing	20	conj	_	SpaceAfter=No
+26	.	.	PUNCT	O	_	4	punct	_	_
+
+# text = A intervenção diplomática russa foi decisiva para evitar o envolvimento ocidental na guerra civil na Bósnia.
+# sent_id = CF828-4
+# source = CETENFolha n=828 cad=Mundo sec=pol sem=94b
+1	A	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	intervenção	intervenção	NOUN	I	Gender=Fem|Number=Sing	6	nsubj	_	_
+3	diplomática	diplomático	ADJ	I	Gender=Fem|Number=Sing	2	amod	_	_
+4	russa	russo	ADJ	I	Gender=Fem|Number=Sing	2	amod	_	_
+5	foi	ser	AUX	O	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
+6	decisiva	decisivo	ADJ	O	Gender=Fem|Number=Sing	0	root	_	_
+7	para	para	SCONJ	O	_	8	mark	_	_
+8	evitar	evitar	VERB	O	VerbForm=Inf	6	advcl	_	_
+9	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	envolvimento	envolvimento	NOUN	I	Gender=Masc|Number=Sing	8	obj	_	_
+11	ocidental	ocidental	ADJ	I	Gender=Masc|Number=Sing	10	amod	_	_
+12-13	na	_	_	I	_	_	_	_	_
+12	em	em	ADP	I	_	14	case	_	_
+13	a	o	DET	I	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	guerra	guerra	NOUN	I	Gender=Fem|Number=Sing	8	obl	_	_
+15	civil	civil	ADJ	I	Gender=Fem|Number=Sing	14	amod	_	_
+16-17	na	_	_	I	_	_	_	_	_
+16	em	em	ADP	I	_	18	case	_	_
+17	a	o	DET	I	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	Bósnia	Bósnia	PROPN	I	Gender=Fem|Number=Sing	8	obl	_	SpaceAfter=No
+19	.	.	PUNCT	O	_	6	punct	_	_
+
+# newdoc_id = CF812
+# text = Os seus 100 quilômetros já levaram este ano 200 mil toneladas de soja.
+# sent_id = CF812-1
+# source = CETENFolha n=812 cad=Opinião sec=opi sem=94b
+1	Os	o	DET	B	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+2	seus	seu	DET	I	Gender=Masc|Number=Plur|PronType=Prs	4	det	_	_
+3	100	100	NUM	I	NumType=Card	4	nummod	_	_
+4	quilômetros	quilômetro	NOUN	I	Gender=Masc|Number=Plur	6	nsubj	_	_
+5	já	já	ADV	O	_	6	advmod	_	_
+6	levaram	levar	VERB	O	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
+7	este	este	DET	B	Gender=Masc|Number=Sing|PronType=Dem	8	det	_	_
+8	ano	ano	NOUN	I	Gender=Masc|Number=Sing	6	obl	_	_
+9	200	200	NUM	I	NumType=Card	11	nummod	_	_
+10	mil	mil	NUM	I	NumType=Card	9	flat	_	_
+11	toneladas	tonelada	NOUN	I	Gender=Fem|Number=Plur	6	obj	_	_
+12	de	de	ADP	I	_	13	case	_	_
+13	soja	soja	NOUN	I	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	O	_	6	punct	_	_
+
+# text = Custo: US$ 8 por tonelada.
+# sent_id = CF812-2
+# source = CETENFolha n=812 cad=Opinião sec=opi sem=94b
+1	Custo	custo	NOUN	B	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	O	_	1	punct	_	_
+3	US$	US$	SYM	O	_	1	appos	_	_
+4	8	8	NUM	O	NumType=Card	3	nummod	_	_
+5	por	por	ADP	O	_	6	case	_	_
+6	tonelada	tonelada	NOUN	B	Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	O	_	1	punct	_	_
+
+# text = No Sul, US$ 24!
+# sent_id = CF812-3
+# source = CETENFolha n=812 cad=Opinião sec=opi sem=94b
+1-2	No	_	_	O	_	_	_	_	_
+1	Em	em	ADP	O	_	3	case	_	_
+2	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	Sul	sul	NOUN	I	Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	O	_	3	punct	_	_
+5	US$	US$	SYM	O	_	0	root	_	_
+6	24	24	NUM	O	NumType=Card	5	nummod	_	SpaceAfter=No
+7	!	!	PUNCT	O	_	5	punct	_	_
+
+# text = Por que não publicar que o PT fez um seminário no Nordeste sobre ela e concluiu pela necessidade de sua construção?
+# sent_id = CF812-4
+# source = CETENFolha n=812 cad=Opinião sec=opi sem=94b
+1	Por	por	ADP	O	_	2	case	_	_
+2	que	que	PRON	O	Gender=Masc|Number=Sing|PronType=Ind	4	obl	_	_
+3	não	não	ADV	O	Polarity=Neg	4	advmod	_	_
+4	publicar	publicar	VERB	O	VerbForm=Inf	0	root	_	_
+5	que	que	SCONJ	O	_	8	mark	_	_
+6	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	PT	PT	PROPN	I	Gender=Masc|Number=Sing	8	nsubj	_	_
+8	fez	fazer	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	ccomp	_	_
+9	um	um	DET	B	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	seminário	seminário	NOUN	I	Gender=Masc|Number=Sing	8	obj	_	_
+11-12	no	_	_	I	_	_	_	_	_
+11	em	em	ADP	I	_	13	case	_	_
+12	o	o	DET	I	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	Nordeste	nordeste	NOUN	I	Gender=Masc|Number=Sing	8	obl	_	_
+14	sobre	sobre	ADP	O	_	15	case	_	_
+15	ela	ela	PRON	O	Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	nmod	_	_
+16	e	e	CCONJ	O	_	17	cc	_	_
+17	concluiu	concluir	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
+18-19	pela	_	_	O	_	_	_	_	_
+18	por	por	ADP	O	_	20	case	_	_
+19	a	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	necessidade	necessidade	NOUN	I	Gender=Fem|Number=Sing	17	obl	_	_
+21	de	de	ADP	I	_	23	case	_	_
+22	sua	seu	DET	I	Gender=Fem|Number=Sing|PronType=Prs	23	det	_	_
+23	construção	construção	NOUN	I	Gender=Fem|Number=Sing	20	nmod	_	SpaceAfter=No
+24	?	?	PUNCT	O	_	4	punct	_	_
+
+# newdoc_id = CF128
+# text = Até agora, o Bradesco VISA financiava em até quatro parcelas, com os juros cobrados sobre os cruzeiros reais.
+# sent_id = CF128-1
+# source = CETENFolha n=128 cad=Dinheiro sec=eco sem=94b
+1	Até	até	ADP	O	_	2	case	_	_
+2	agora	agora	ADV	O	_	7	advmod	_	SpaceAfter=No
+3	,	,	PUNCT	O	_	2	punct	_	_
+4	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	Bradesco	Bradesco	PROPN	I	ExtPos=PROPN|Gender=Masc|Number=Sing	7	nsubj	_	_
+6	VISA	VISA	PROPN	I	Number=Sing	5	flat:name	_	_
+7	financiava	financiar	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+8	em	em	ADP	O	_	11	case	_	_
+9	até	até	ADP	O	_	10	case	_	_
+10	quatro	quatro	NUM	B	NumType=Card	11	nmod	_	_
+11	parcelas	parcela	NOUN	I	Gender=Fem|Number=Plur	7	obl	_	SpaceAfter=No
+12	,	,	PUNCT	O	_	15	punct	_	_
+13	com	com	ADP	O	_	15	case	_	_
+14	os	o	DET	B	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	juros	juro	NOUN	I	Gender=Masc|Number=Plur	11	nmod	_	_
+16	cobrados	cobrar	VERB	O	Gender=Masc|Number=Plur|VerbForm=Part	15	acl	_	_
+17	sobre	sobre	ADP	O	_	19	case	_	_
+18	os	o	DET	B	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+19	cruzeiros	cruzeiro	NOUN	I	Gender=Masc|Number=Plur	16	obl	_	_
+20	reais	real	ADJ	I	Gender=Masc|Number=Plur	19	amod	_	SpaceAfter=No
+21	.	.	PUNCT	O	_	7	punct	_	_
+
+# text = Jovens estudantes na Belo Horizonte dos anos 20, o futuro médico Juscelino Kubitschek e o futuro advogado José Maria Alkimin costumavam sair juntos em busca de moças namoradeiras.
+# sent_id = CF448-2
+# source = CETENFolha n=448 cad=Brasil sec=pol sem=94a
+1	Jovens	jovem	ADJ	O	Gender=Masc|Number=Plur	2	amod	_	_
+2	estudantes	estudante	NOUN	O	Gender=Masc|Number=Plur	25	obl	_	_
+3-4	na	_	_	O	_	_	_	_	_
+3	em	em	ADP	O	_	5	case	_	_
+4	a	o	DET	O	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	Belo	Belo	PROPN	O	ExtPos=PROPN|Gender=Fem|Number=Sing	2	nmod	_	_
+6	Horizonte	Horizonte	PROPN	O	Number=Sing	5	flat:name	_	_
+7-8	dos	_	_	O	_	_	_	_	_
+7	de	de	ADP	O	_	9	case	_	_
+8	os	o	DET	O	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	anos	ano	NOUN	O	Gender=Masc|Number=Plur	5	nmod	_	_
+10	20	20	NUM	O	NumType=Card	9	nummod	_	SpaceAfter=No
+11	,	,	PUNCT	O	_	2	punct	_	_
+12	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+13	futuro	futuro	ADJ	I	Gender=Masc|Number=Sing	14	amod	_	_
+14	médico	médico	NOUN	I	Gender=Masc|Number=Sing	24	nsubj	_	_
+15	Juscelino	Juscelino	PROPN	I	ExtPos=PROPN|Gender=Masc|Number=Sing	14	appos	_	_
+16	Kubitschek	Kubitschek	PROPN	I	Number=Sing	15	flat:name	_	_
+17	e	e	CCONJ	O	_	20	cc	_	_
+18	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+19	futuro	futuro	ADJ	I	Gender=Masc|Number=Sing	20	amod	_	_
+20	advogado	advogado	NOUN	I	Gender=Masc|Number=Sing	14	conj	_	_
+21	José	José	PROPN	I	ExtPos=PROPN|Gender=Masc|Number=Sing	20	appos	_	_
+22	Maria	Maria	PROPN	I	Number=Sing	21	flat:name	_	_
+23	Alkimin	Alkimin	PROPN	I	Number=Sing	21	flat:name	_	_
+24	costumavam	costumar	VERB	O	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+25	sair	sair	VERB	O	VerbForm=Inf	24	xcomp	_	_
+26	juntos	junto	ADV	O	_	25	advmod	_	_
+27	em	em	ADP	O	_	28	case	_	_
+28	busca	busca	NOUN	O	Gender=Fem|Number=Sing	25	obl	_	_
+29	de	de	ADP	O	_	30	case	_	_
+30	moças	moça	NOUN	B	Gender=Fem|Number=Plur	28	nmod	_	_
+31	namoradeiras	namoradeiro	ADJ	I	Gender=Fem|Number=Plur	30	amod	_	SpaceAfter=No
+32	.	.	PUNCT	O	_	25	punct	_	_
+
+# text = Abre a perspectiva de aplicações por prazo mais longos.
+# sent_id = CF826-5
+# source = CETENFolha n=826 cad=Dinheiro sec=eco sem=94b
+1	Abre	abrir	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	a	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	perspectiva	perspectiva	NOUN	I	Gender=Fem|Number=Sing	1	obj	_	_
+4	de	de	ADP	I	_	5	case	_	_
+5	aplicações	aplicação	NOUN	I	Gender=Fem|Number=Plur	3	nmod	_	_
+6	por	por	ADP	I	_	7	case	_	_
+7	prazo	prazo	NOUN	I	Gender=Masc|Number=Plur|Typo=Yes	5	nmod	_	CorrectForm=prazos
+8	mais	mais	ADV	I	_	9	advmod	_	_
+9	longos	longo	ADJ	I	Gender=Masc|Number=Plur	7	amod	_	SpaceAfter=No
+10	.	.	PUNCT	O	_	1	punct	_	_
+
+# text = O nosso jogo aqui é prevenção», disse o secretário de Segurança Pública do Estado de São Paulo, Antônio Correia Meyer.
+# sent_id = CF627-3
+# source = CETENFolha n=627 cad=Esporte sec=des sem=94a
+1	O	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	nosso	nosso	DET	I	Gender=Masc|Number=Sing|PronType=Prs	3	det	_	_
+3	jogo	jogo	NOUN	I	Gender=Masc|Number=Sing	6	nsubj	_	_
+4	aqui	aqui	ADV	O	_	6	advmod	_	_
+5	é	ser	AUX	O	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	prevenção	prevenção	NOUN	O	Gender=Fem|Number=Sing	9	parataxis	_	SpaceAfter=No
+7	»	»	PUNCT	O	_	6	punct	_	SpaceAfter=No
+8	,	,	PUNCT	O	_	9	punct	_	_
+9	disse	dizer	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+10	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	secretário	secretário	NOUN	I	Gender=Masc|Number=Sing	9	nsubj	_	_
+12	de	de	ADP	I	_	13	case	_	_
+13	Segurança	Segurança	PROPN	I	Gender=Fem|Number=Sing	11	nmod	_	_
+14	Pública	Pública	PROPN	I	Number=Sing	13	flat:name	_	_
+15-16	do	_	_	I	_	_	_	_	_
+15	de	de	ADP	I	_	17	case	_	_
+16	o	o	DET	I	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	Estado	estado	NOUN	I	Gender=Masc|Number=Sing	11	nmod	_	_
+18	de	de	ADP	I	_	19	case	_	_
+19	São	São	PROPN	I	ExtPos=PROPN|Gender=Masc|Number=Sing	17	nmod	_	_
+20	Paulo	Paulo	PROPN	I	Number=Sing	19	flat:name	_	SpaceAfter=No
+21	,	,	PUNCT	O	_	22	punct	_	_
+22	Antônio	Antônio	PROPN	O	ExtPos=PROPN|Gender=Masc|Number=Sing	11	appos	_	_
+23	Correia	Correia	PROPN	O	Number=Sing	22	flat:name	_	_
+24	Meyer	Meyer	PROPN	O	Number=Sing	22	flat:name	_	SpaceAfter=No
+25	.	.	PUNCT	O	_	9	punct	_	_
+
+# text = Collor recebia telefonemas o tempo inteiro, dos advogados, de políticos amigos e de pessoas que prestavam solidariedade.
+# sent_id = CF461-3
+# source = CETENFolha n=461 cad=Brasil sec=pol sem=94a
+1	Collor	Collor	PROPN	B	Gender=Masc|Number=Sing	2	nsubj	_	_
+2	recebia	receber	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	telefonemas	telefonema	NOUN	B	Gender=Masc|Number=Plur	2	obj	_	_
+4	o	o	DET	I	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	tempo	tempo	NOUN	I	Gender=Masc|Number=Sing	2	obl	_	_
+6	inteiro	inteiro	ADJ	I	Gender=Masc|Number=Sing	5	amod	_	SpaceAfter=No
+7	,	,	PUNCT	O	_	10	punct	_	_
+8-9	dos	_	_	O	_	_	_	_	_
+8	de	de	ADP	O	_	10	case	_	_
+9	os	o	DET	B	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	advogados	advogado	NOUN	I	Gender=Masc|Number=Plur	3	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	O	_	13	punct	_	_
+12	de	de	ADP	O	_	13	case	_	_
+13	políticos	político	NOUN	B	Gender=Masc|Number=Plur	10	conj	_	_
+14	amigos	amigo	ADJ	I	Gender=Masc|Number=Plur	13	amod	_	_
+15	e	e	CCONJ	O	_	17	cc	_	_
+16	de	de	ADP	O	_	17	case	_	_
+17	pessoas	pessoa	NOUN	B	Gender=Fem|Number=Plur	10	conj	_	_
+18	que	que	PRON	O	Gender=Fem|Number=Plur|PronType=Rel	19	nsubj	_	_
+19	prestavam	prestar	VERB	O	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	17	acl:relcl	_	_
+20	solidariedade	solidariedade	NOUN	B	Gender=Fem|Number=Sing	19	obj	_	SpaceAfter=No
+21	.	.	PUNCT	O	_	2	punct	_	_
+
+# text = Para o psicanalista Carl Jung, esta seria a origem dos globos pendurados nas árvores contemporâneas.
+# sent_id = CF709-2
+# source = CETENFolha n=709 cad=Turismo sec=soc sem=94a
+1	Para	para	ADP	O	_	3	case	_	_
+2	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	psicanalista	psicanalista	NOUN	I	Gender=Masc|Number=Sing	10	nmod	_	_
+4	Carl	Carl	PROPN	I	ExtPos=PROPN|Gender=Masc|Number=Sing	3	appos	_	_
+5	Jung	Jung	PROPN	I	Number=Sing	4	flat:name	_	SpaceAfter=No
+6	,	,	PUNCT	O	_	3	punct	_	_
+7	esta	este	PRON	O	Gender=Fem|Number=Sing|PronType=Dem	10	nsubj	_	_
+8	seria	ser	AUX	O	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	10	cop	_	_
+9	a	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	origem	origem	NOUN	I	Gender=Fem|Number=Sing	0	root	_	_
+11-12	dos	_	_	I	_	_	_	_	_
+11	de	de	ADP	I	_	13	case	_	_
+12	os	o	DET	I	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	globos	globo	NOUN	I	Gender=Masc|Number=Plur	10	nmod	_	_
+14	pendurados	pendurar	VERB	I	Gender=Masc|Number=Plur|VerbForm=Part	13	acl	_	_
+15-16	nas	_	_	I	_	_	_	_	_
+15	em	em	ADP	I	_	17	case	_	_
+16	as	o	DET	I	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	17	det	_	_
+17	árvores	árvore	NOUN	I	Gender=Fem|Number=Plur	14	obj	_	_
+18	contemporâneas	contemporâneo	ADJ	I	Gender=Fem|Number=Plur	17	amod	_	SpaceAfter=No
+19	.	.	PUNCT	O	_	10	punct	_	_
+
+# text = Isto restringe à URV todos os poderes da moeda do país.
+# sent_id = CF705-8
+# source = CETENFolha n=705 cad=Caderno Especial sec=nd sem=94b
+1	Isto	isto	PRON	O	Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	_
+2	restringe	restringir	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3-4	à	_	_	O	_	_	_	_	_
+3	a	a	ADP	O	_	5	case	_	_
+4	a	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	URV	Urv	PROPN	I	Gender=Fem|Number=Sing	2	iobj	_	_
+6	todos	todo	DET	O	Gender=Masc|Number=Plur|PronType=Tot	8	det	_	_
+7	os	o	DET	B	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	poderes	poder	NOUN	I	Gender=Masc|Number=Plur	2	obj	_	_
+9-10	da	_	_	I	_	_	_	_	_
+9	de	de	ADP	I	_	11	case	_	_
+10	a	o	DET	I	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	moeda	moeda	NOUN	I	Gender=Fem|Number=Sing	8	nmod	_	_
+12-13	do	_	_	I	_	_	_	_	_
+12	de	de	ADP	I	_	14	case	_	_
+13	o	o	DET	I	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	país	país	NOUN	I	Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	O	_	2	punct	_	_
+
+# text = À noite vem a São Paulo para participar do programa «Fogo Cruzado».
+# sent_id = CF193-6
+# source = CETENFolha n=193 cad=Brasil sec=pol sem=94a
+1-2	À	_	_	O	_	_	_	_	_
+1	A	a	ADP	O	_	3	case	_	_
+2	a	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	noite	noite	NOUN	I	Gender=Fem|Number=Sing	4	obl	_	_
+4	vem	vir	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	a	a	ADP	O	_	6	case	_	_
+6	São	São	PROPN	B	ExtPos=PROPN|Gender=Masc|Number=Sing	4	obl	_	_
+7	Paulo	Paulo	PROPN	I	Number=Sing	6	flat:name	_	_
+8	para	para	SCONJ	O	_	9	mark	_	_
+9	participar	participar	VERB	O	VerbForm=Inf	4	advcl	_	_
+10-11	do	_	_	O	_	_	_	_	_
+10	de	de	ADP	O	_	12	case	_	_
+11	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	programa	programa	NOUN	I	Gender=Masc|Number=Sing	9	obj	_	_
+13	«	«	PUNCT	O	_	14	punct	_	SpaceAfter=No
+14	Fogo	Fogo	PROPN	O	ExtPos=PROPN|Gender=Masc|Number=Sing	12	appos	_	_
+15	Cruzado	Cruzado	PROPN	O	Number=Sing	14	flat:name	_	SpaceAfter=No
+16	»	»	PUNCT	O	_	14	punct	_	SpaceAfter=No
+17	.	.	PUNCT	O	_	4	punct	_	_
+
+# text = Além de muito ruim, o filme «O Magnata Grego» (The Greek Tycoon) dedicava mais atenção ao seu segundo marido, interpretado por Anthony Quinn, que aliás faria o papel de Sócrates Onassis (sogro de Jackie) no telefilme «Onassis: The Richest Man in the World», produzido em 1988.
+# sent_id = CF720-4
+# source = CETENFolha n=720 cad=Mundo sec=pol sem=94b
+1	Além	além	ADV	O	_	18	advmod	_	_
+2	de	de	ADP	O	_	4	case	_	_
+3	muito	muito	ADV	O	_	4	advmod	_	_
+4	ruim	ruim	ADJ	O	Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
+5	,	,	PUNCT	O	_	1	punct	_	_
+6	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	filme	filme	NOUN	I	Gender=Masc|Number=Sing	18	nsubj	_	_
+8	«	«	PUNCT	O	_	9	punct	_	SpaceAfter=No
+9	O	O	PROPN	O	ExtPos=PROPN|Gender=Masc|Number=Sing|PronType=Art	7	appos	_	_
+10	Magnata	Magnata	PROPN	O	Number=Sing	9	flat:name	_	_
+11	Grego	Grego	PROPN	O	Number=Sing	9	flat:name	_	SpaceAfter=No
+12	»	»	PUNCT	O	_	9	punct	_	_
+13	(	(	PUNCT	O	_	14	punct	_	SpaceAfter=No
+14	The	The	PROPN	O	ExtPos=PROPN|Gender=Masc|Number=Sing	7	appos	_	_
+15	Greek	Greek	PROPN	O	Number=Sing	14	flat:name	_	_
+16	Tycoon	Tycoon	PROPN	O	Number=Sing	14	flat:name	_	SpaceAfter=No
+17	)	)	PUNCT	O	_	14	punct	_	_
+18	dedicava	dedicar	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+19	mais	mais	DET	B	Gender=Fem|Number=Sing|PronType=Ind	20	det	_	_
+20	atenção	atenção	NOUN	I	Gender=Fem|Number=Sing	18	obj	_	_
+21-22	ao	_	_	O	_	_	_	_	_
+21	a	a	ADP	O	_	25	case	_	_
+22	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+23	seu	seu	DET	I	Gender=Masc|Number=Sing|PronType=Prs	25	det	_	_
+24	segundo	segundo	ADJ	I	Gender=Masc|Number=Sing|NumType=Ord	25	amod	_	_
+25	marido	marido	NOUN	I	Gender=Masc|Number=Sing	18	iobj	_	SpaceAfter=No
+26	,	,	PUNCT	O	_	27	punct	_	_
+27	interpretado	interpretar	VERB	O	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	25	acl	_	_
+28	por	por	ADP	O	_	29	case	_	_
+29	Anthony	Anthony	PROPN	O	ExtPos=PROPN|Gender=Masc|Number=Sing	27	obl:agent	_	_
+30	Quinn	Quinn	PROPN	O	Number=Sing	29	flat:name	_	SpaceAfter=No
+31	,	,	PUNCT	O	_	34	punct	_	_
+32	que	que	PRON	O	Gender=Masc|Number=Sing|PronType=Rel	34	nsubj	_	_
+33	aliás	aliás	ADV	O	_	34	advmod	_	_
+34	faria	fazer	VERB	O	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	29	acl:relcl	_	_
+35	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	36	det	_	_
+36	papel	papel	NOUN	B	Gender=Masc|Number=Sing	34	obj	_	_
+37	de	de	ADP	B	_	38	case	_	_
+38	Sócrates	Sócrates	PROPN	B	ExtPos=PROPN|Gender=Masc|Number=Sing	36	nmod	_	_
+39	Onassis	Onassis	PROPN	B	Number=Sing	38	flat:name	_	_
+40	(	(	PUNCT	O	_	41	punct	_	SpaceAfter=No
+41	sogro	sogro	NOUN	O	Gender=Masc|Number=Sing	38	appos	_	_
+42	de	de	ADP	O	_	43	case	_	_
+43	Jackie	Jackie	PROPN	O	Gender=Fem|Number=Sing	41	nmod	_	SpaceAfter=No
+44	)	)	PUNCT	O	_	41	punct	_	_
+45-46	no	_	_	O	_	_	_	_	_
+45	em	em	ADP	O	_	47	case	_	_
+46	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	47	det	_	_
+47	telefilme	telefilme	NOUN	I	Gender=Masc|Number=Sing	34	obl	_	_
+48	«	«	PUNCT	O	_	49	punct	_	SpaceAfter=No
+49	Onassis:	Onassis:	PROPN	O	Gender=Masc|Number=Sing	47	appos	_	_
+50	The	The	PROPN	O	Number=Sing	49	flat:name	_	_
+51	Richest	Richest	PROPN	O	Number=Sing	49	flat:name	_	_
+52	Man	Man	PROPN	O	Number=Sing	49	flat:name	_	_
+53	in	in	PROPN	O	Number=Sing	49	flat:name	_	_
+54	the	the	PROPN	O	Number=Sing	49	flat:name	_	_
+55	World	World	PROPN	O	Number=Sing	49	flat:name	_	SpaceAfter=No
+56	»	»	PUNCT	O	_	49	punct	_	SpaceAfter=No
+57	,	,	PUNCT	O	_	58	punct	_	_
+58	produzido	produzir	VERB	O	Gender=Masc|Number=Sing|VerbForm=Part	47	acl	_	_
+59	em	em	ADP	O	_	60	case	_	_
+60	1988	1988	NUM	O	NumType=Card	58	obl	_	SpaceAfter=No
+61	.	.	PUNCT	O	_	18	punct	_	_
+
+# text = Sequer lhe ocorreu que em fevereiro o «excesso» de aumento poderia ser compensado.
+# sent_id = CF370-3
+# source = CETENFolha n=370 cad=Dinheiro sec=eco sem=94b
+1	Sequer	sequer	ADV	O	_	3	advmod	_	_
+2	lhe	ele	PRON	O	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	_
+3	ocorreu	ocorrer	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	que	que	SCONJ	O	_	15	mark	_	_
+5	em	em	ADP	O	_	6	case	_	_
+6	fevereiro	fevereiro	NOUN	O	Gender=Masc|Number=Sing	15	obl	_	_
+7	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	«	«	PUNCT	I	_	9	punct	_	SpaceAfter=No
+9	excesso	excesso	NOUN	I	Gender=Masc|Number=Sing	13	nsubj:pass	_	SpaceAfter=No
+10	»	»	PUNCT	I	_	9	punct	_	_
+11	de	de	ADP	I	_	12	case	_	_
+12	aumento	aumento	NOUN	I	Gender=Masc|Number=Sing	9	nmod	_	_
+13	poderia	poder	VERB	O	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	3	csubj	_	_
+14	ser	ser	AUX	O	VerbForm=Inf	15	aux:pass	_	_
+15	compensado	compensar	VERB	O	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	13	xcomp	_	SpaceAfter=No
+16	.	.	PUNCT	O	_	3	punct	_	_
+
+# newdoc_id = CF133
+# text = Parar esse ataque no bloqueio é uma missão quase impossível.
+# sent_id = CF133-2
+# source = CETENFolha n=133 cad=Esporte sec=des sem=94a
+1	Parar	parar	VERB	O	VerbForm=Inf	9	csubj	_	_
+2	esse	esse	DET	B	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+3	ataque	ataque	NOUN	I	Gender=Masc|Number=Sing	1	obj	_	_
+4-5	no	_	_	I	_	_	_	_	_
+4	em	em	ADP	I	_	6	case	_	_
+5	o	o	DET	I	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	bloqueio	bloqueio	NOUN	I	Gender=Masc|Number=Sing	3	nmod	_	_
+7	é	ser	AUX	O	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	uma	um	DET	B	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	missão	missão	NOUN	I	Gender=Fem|Number=Sing	0	root	_	_
+10	quase	quase	ADV	I	_	11	advmod	_	_
+11	impossível	impossível	ADJ	I	Gender=Fem|Number=Sing	9	amod	_	SpaceAfter=No
+12	.	.	PUNCT	O	_	9	punct	_	_
+
+# newdoc_id = CF319
+# text = O JOGO
+# sent_id = CF319-1
+# source = CETENFolha n=319 cad=Esporte sec=des sem=94a
+1	O	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	JOGO	jogo	NOUN	I	Gender=Masc|Number=Sing	0	root	_	_
+
+# newdoc_id = CF496
+# text = Teremos, então, um meio-campo ainda mais sólido na proteção à zaga e mais inteligente, veloz e agressivo, na combinação com o ataque.
+# sent_id = CF496-1
+# source = CETENFolha n=496 cad=Esporte sec=des sem=94a
+1	Teremos	ter	VERB	O	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	O	_	3	punct	_	_
+3	então	então	ADV	O	_	1	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	O	_	3	punct	_	_
+5	um	um	DET	B	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	meio-campo	meio-campo	NOUN	I	Gender=Masc|Number=Sing	1	obj	_	_
+7	ainda	ainda	ADV	O	_	8	advmod	_	_
+8	mais	mais	ADV	O	_	9	advmod	_	_
+9	sólido	sólido	ADJ	O	Gender=Masc|Number=Sing	6	amod	_	_
+10-11	na	_	_	O	_	_	_	_	_
+10	em	em	ADP	O	_	12	case	_	_
+11	a	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	proteção	proteção	NOUN	I	Gender=Fem|Number=Sing	9	nmod	_	_
+13-14	à	_	_	I	_	_	_	_	_
+13	a	a	ADP	I	_	15	case	_	_
+14	a	o	DET	I	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	zaga	zaga	NOUN	I	Gender=Fem|Number=Sing	12	nmod	_	_
+16	e	e	CCONJ	O	_	18	cc	_	_
+17	mais	mais	ADV	B	_	18	advmod	_	_
+18	inteligente	inteligente	ADJ	I	Gender=Masc|Number=Sing	9	conj	_	SpaceAfter=No
+19	,	,	PUNCT	O	_	20	punct	_	_
+20	veloz	veloz	ADJ	O	Gender=Masc|Number=Sing	18	conj	_	_
+21	e	e	CCONJ	O	_	22	cc	_	_
+22	agressivo	agressivo	ADJ	O	Gender=Masc|Number=Sing	18	conj	_	SpaceAfter=No
+23	,	,	PUNCT	O	_	26	punct	_	_
+24-25	na	_	_	O	_	_	_	_	_
+24	em	em	ADP	O	_	26	case	_	_
+25	a	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
+26	combinação	combinação	NOUN	I	Gender=Fem|Number=Sing	18	nmod	_	_
+27	com	com	ADP	I	_	29	case	_	_
+28	o	o	DET	I	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
+29	ataque	ataque	NOUN	I	Gender=Masc|Number=Sing	26	nmod	_	SpaceAfter=No
+30	.	.	PUNCT	O	_	1	punct	_	_
+
+# text = Coincidentemente, Jason também levou o maior número de balas (132), contra 27 de Michael Myers e apenas seis de Freddy Krueger.
+# sent_id = CF358-4
+# source = CETENFolha n=358 cad=Mais! sec=nd sem=94a
+1	Coincidentemente	coincidentemente	ADV	O	_	5	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	O	_	1	punct	_	_
+3	Jason	Jason	PROPN	B	Gender=Masc|Number=Sing	5	nsubj	_	_
+4	também	também	ADV	O	_	5	advmod	_	_
+5	levou	levar	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	maior	grande	ADJ	I	Gender=Masc|Number=Sing	8	amod	_	_
+8	número	número	NOUN	I	Gender=Masc|Number=Sing	5	obj	_	_
+9	de	de	ADP	I	_	10	case	_	_
+10	balas	bala	NOUN	I	Gender=Fem|Number=Plur	8	nmod	_	_
+11	(	(	PUNCT	O	_	12	punct	_	SpaceAfter=No
+12	132	132	NUM	O	NumType=Card	8	appos	_	SpaceAfter=No
+13	)	)	PUNCT	O	_	12	punct	_	SpaceAfter=No
+14	,	,	PUNCT	O	_	5	punct	_	_
+15	contra	contra	ADP	O	_	16	case	_	_
+16	27	27	NUM	O	NumType=Card	5	obl	_	_
+17	de	de	ADP	O	_	18	case	_	_
+18	Michael	Michael	PROPN	O	ExtPos=PROPN|Gender=Masc|Number=Sing	16	nmod	_	_
+19	Myers	Myers	PROPN	O	Number=Sing	18	flat:name	_	_
+20	e	e	CCONJ	O	_	22	cc	_	_
+21	apenas	apenas	ADV	O	_	22	advmod	_	_
+22	seis	seis	NUM	O	NumType=Card	16	conj	_	_
+23	de	de	ADP	O	_	24	case	_	_
+24	Freddy	Freddy	PROPN	O	ExtPos=PROPN|Gender=Masc|Number=Sing	22	nmod	_	_
+25	Krueger	Krueger	PROPN	O	Number=Sing	24	flat:name	_	SpaceAfter=No
+26	.	.	PUNCT	O	_	5	punct	_	_
+
+# text = Durante o almoço familiar, por exemplo, fala-se muito sobre quase nada e ninguém mastiga.
+# sent_id = CF817-7
+# source = CETENFolha n=817 cad=Ilustrada sec=nd sem=94b
+1	Durante	durante	ADP	O	_	3	case	_	_
+2	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	almoço	almoço	NOUN	I	Gender=Masc|Number=Sing	9	obl	_	_
+4	familiar	familiar	ADJ	I	Gender=Masc|Number=Sing	3	amod	_	SpaceAfter=No
+5	,	,	PUNCT	O	_	3	punct	_	_
+6	por	por	ADP	O	ExtPos=ADV	9	advmod	_	_
+7	exemplo	exemplo	NOUN	O	Gender=Masc|Number=Sing	6	fixed	_	SpaceAfter=No
+8	,	,	PUNCT	O	_	6	punct	_	_
+9-10	fala-se	_	_	O	_	_	_	_	_
+9	fala	falar	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	se	se	PRON	O	Case=Acc|PronType=Prs	9	nsubj	_	_
+11	muito	muito	ADV	O	_	9	advmod	_	_
+12	sobre	sobre	ADP	O	_	14	case	_	_
+13	quase	quase	ADV	O	_	14	advmod	_	_
+14	nada	nada	PRON	O	Gender=Masc|Number=Sing|PronType=Ind	9	obj	_	_
+15	e	e	CCONJ	O	_	17	cc	_	_
+16	ninguém	ninguém	PRON	O	Gender=Masc|Number=Sing|PronType=Ind	17	nsubj	_	_
+17	mastiga	mastigar	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	SpaceAfter=No
+18	.	.	PUNCT	O	_	9	punct	_	_
+
+# newdoc_id = CF233
+# text = Como exemplo no combate à violência, o prefeito carioca cita a criação da Guarda Municipal, um grupo de atividades especiais que tem atuado mais na liberação de áreas tradicionalmente ocupadas por camelôs.
+# sent_id = CF233-1
+# source = CETENFolha n=233 cad=Cotidiano sec=soc sem=94b
+1	Como	como	ADP	O	_	2	case	_	_
+2	exemplo	exemplo	NOUN	O	Gender=Masc|Number=Sing	13	xcomp	_	_
+3-4	no	_	_	O	_	_	_	_	_
+3	em	em	ADP	O	_	5	case	_	_
+4	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	combate	combate	NOUN	I	Gender=Masc|Number=Sing	2	nmod	_	_
+6-7	à	_	_	I	_	_	_	_	_
+6	a	a	ADP	I	_	8	case	_	_
+7	a	o	DET	I	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	violência	violência	NOUN	I	Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	O	_	2	punct	_	_
+10	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	prefeito	prefeito	NOUN	I	Gender=Masc|Number=Sing	13	nsubj	_	_
+12	carioca	carioca	ADJ	I	Gender=Masc|Number=Sing	11	amod	_	_
+13	cita	citar	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+14	a	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	criação	criação	NOUN	I	Gender=Fem|Number=Sing	13	obj	_	_
+16-17	da	_	_	I	_	_	_	_	_
+16	de	de	ADP	I	_	18	case	_	_
+17	a	o	DET	I	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	Guarda	Guarda	PROPN	I	ExtPos=PROPN|Gender=Fem|Number=Sing	15	nmod	_	_
+19	Municipal	Municipal	PROPN	I	Number=Sing	18	flat:name	_	SpaceAfter=No
+20	,	,	PUNCT	O	_	22	punct	_	_
+21	um	um	DET	O	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	grupo	grupo	NOUN	O	Gender=Masc|Number=Sing	18	appos	_	_
+23	de	de	ADP	O	_	24	case	_	_
+24	atividades	atividade	NOUN	O	Gender=Fem|Number=Plur	22	nmod	_	_
+25	especiais	especial	ADJ	O	Gender=Fem|Number=Plur	24	amod	_	_
+26	que	que	PRON	O	Gender=Fem|Number=Plur|PronType=Rel	28	nsubj	_	_
+27	tem	ter	AUX	O	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	aux	_	_
+28	atuado	atuar	VERB	O	VerbForm=Part	24	acl:relcl	_	_
+29	mais	mais	ADV	O	_	28	advmod	_	_
+30-31	na	_	_	O	_	_	_	_	_
+30	em	em	ADP	O	_	32	case	_	_
+31	a	o	DET	I	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	32	det	_	_
+32	liberação	liberação	NOUN	I	Gender=Fem|Number=Sing	28	obj	_	_
+33	de	de	ADP	I	_	34	case	_	_
+34	áreas	área	NOUN	I	Gender=Fem|Number=Plur	32	nmod	_	_
+35	tradicionalmente	tradicionalmente	ADV	O	_	36	advmod	_	_
+36	ocupadas	ocupar	VERB	O	Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	34	acl	_	_
+37	por	por	ADP	O	_	38	case	_	_
+38	camelôs	camelô	NOUN	B	Gender=Masc|Number=Plur	36	obl:agent	_	SpaceAfter=No
+39	.	.	PUNCT	O	_	13	punct	_	_
+
+# newdoc_id = CF269
+# text = Santana era morador antigo de Lambari d'Oeste.
+# sent_id = CF269-1
+# source = CETENFolha n=269 cad=Cotidiano sec=soc sem=94a
+1	Santana	Santana	PROPN	B	Gender=Masc|Number=Sing	3	nsubj	_	_
+2	era	ser	AUX	O	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	morador	morador	ADJ	B	Gender=Masc|Number=Sing	0	root	_	_
+4	antigo	antigo	ADJ	I	Gender=Masc|Number=Sing	3	amod	_	_
+5	de	de	ADP	I	_	6	case	_	_
+6	Lambari	Lambari	PROPN	I	ExtPos=PROPN|Gender=Masc|Number=Sing	3	obl	_	_
+7	d'	d'	PROPN	I	Number=Sing	6	flat:name	_	SpaceAfter=No
+8	Oeste	Oeste	PROPN	I	Number=Sing	6	flat:name	_	SpaceAfter=No
+9	.	.	PUNCT	O	_	3	punct	_	_
+
+# text = O presidente da Cooper, Benedito Vieira Pereira, 49, afirmou que pretendia distribuir leite C nos postos de venda hoje.
+# sent_id = CF9-2
+# source = CETENFolha n=9 cad=Dinheiro sec=eco sem=94b
+1	O	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	presidente	presidente	NOUN	I	Gender=Masc|Number=Sing	13	nsubj	_	_
+3-4	da	_	_	I	_	_	_	_	_
+3	de	de	ADP	I	_	5	case	_	_
+4	a	o	DET	I	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	Cooper	Cooper	PROPN	I	Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	O	_	7	punct	_	_
+7	Benedito	Benedito	PROPN	O	ExtPos=PROPN|Gender=Masc|Number=Sing	2	appos	_	_
+8	Vieira	Vieira	PROPN	O	Number=Sing	7	flat:name	_	_
+9	Pereira	Pereira	PROPN	O	Number=Sing	7	flat:name	_	SpaceAfter=No
+10	,	,	PUNCT	O	_	11	punct	_	_
+11	49	49	NUM	O	NumType=Card	7	conj	_	SpaceAfter=No
+12	,	,	PUNCT	O	_	7	punct	_	_
+13	afirmou	afirmar	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+14	que	que	SCONJ	O	_	15	mark	_	_
+15	pretendia	pretender	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	ccomp	_	_
+16	distribuir	distribuir	VERB	O	VerbForm=Inf	15	xcomp	_	_
+17	leite	leite	NOUN	B	Gender=Masc|Number=Sing	16	obj	_	_
+18	C	c	NOUN	I	Gender=Masc|Number=Sing	17	nmod	_	_
+19-20	nos	_	_	O	_	_	_	_	_
+19	em	em	ADP	O	_	21	case	_	_
+20	os	o	DET	B	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
+21	postos	posto	NOUN	I	Gender=Masc|Number=Plur	16	obl	_	_
+22	de	de	ADP	I	_	23	case	_	_
+23	venda	venda	NOUN	I	Gender=Fem|Number=Sing	21	nmod	_	_
+24	hoje	hoje	ADV	O	_	16	advmod	_	SpaceAfter=No
+25	.	.	PUNCT	O	_	13	punct	_	_
+
+# newdoc_id = CF723
+# text = A campanha eleitoral encerrou-se na noite de quinta-feira, com um pronunciamento de oito minutos de todos os candidatos.
+# sent_id = CF723-1
+# source = CETENFolha n=723 cad=Mundo sec=pol sem=94a
+1	A	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	campanha	campanha	NOUN	I	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	eleitoral	eleitoral	ADJ	I	Gender=Fem|Number=Sing	2	amod	_	_
+4-5	encerrou-se	_	_	O	_	_	_	_	_
+4	encerrou	encerrar	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	se	se	PRON	O	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	expl	_	_
+6-7	na	_	_	O	_	_	_	_	_
+6	em	em	ADP	O	_	8	case	_	_
+7	a	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	noite	noite	NOUN	I	Gender=Fem|Number=Sing	4	obl	_	_
+9	de	de	ADP	I	_	10	case	_	_
+10	quinta-feira	quinta-feira	NOUN	I	Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	O	_	14	punct	_	_
+12	com	com	ADP	O	_	14	case	_	_
+13	um	um	DET	B	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	pronunciamento	pronunciamento	NOUN	I	Gender=Masc|Number=Sing	8	nmod	_	_
+15	de	de	ADP	I	_	17	case	_	_
+16	oito	oito	NUM	I	NumType=Card	17	nummod	_	_
+17	minutos	minuto	NOUN	I	Gender=Masc|Number=Plur	14	nmod	_	_
+18	de	de	ADP	O	_	21	case	_	_
+19	todos	todo	DET	B	Gender=Masc|Number=Plur|PronType=Tot	21	det	_	_
+20	os	o	DET	B	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
+21	candidatos	candidato	NOUN	B	Gender=Masc|Number=Plur	14	nmod	_	SpaceAfter=No
+22	.	.	PUNCT	O	_	4	punct	_	_
+
+# text = Gilmar pretende votar no senador Esperidião Amin (PPR-SC).
+# sent_id = CF601-6
+# source = CETENFolha n=601 cad=Esporte sec=des sem=94b
+1	Gilmar	Gilmar	PROPN	B	Gender=Masc|Number=Sing	2	nsubj	_	_
+2	pretende	pretender	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	votar	votar	VERB	O	VerbForm=Inf	2	xcomp	_	_
+4-5	no	_	_	O	_	_	_	_	_
+4	em	em	ADP	O	_	6	case	_	_
+5	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	senador	senador	NOUN	I	Gender=Masc|Number=Sing	3	obj	_	_
+7	Esperidião	Esperidião	PROPN	I	ExtPos=PROPN|Gender=Masc|Number=Sing	6	appos	_	_
+8	Amin	Amin	PROPN	I	Number=Sing	7	flat:name	_	_
+9	(	(	PUNCT	O	_	10	punct	_	SpaceAfter=No
+10	PPR-SC	PPR-SC	PROPN	O	Gender=Masc|Number=Sing	6	parataxis	_	SpaceAfter=No
+11	)	)	PUNCT	O	_	10	punct	_	SpaceAfter=No
+12	.	.	PUNCT	O	_	2	punct	_	_
+
+# text = A CBD aliciou Leônidas (Vasco), Luizinho e Waldemar de Brito (São Paulo), entre outros.
+# sent_id = CF910-4
+# source = CETENFolha n=910 cad=Caderno Especial sec=nd sem=94b
+1	A	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	CBD	CBD	PROPN	I	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	aliciou	aliciar	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	Leônidas	Leônidas	PROPN	B	Gender=Masc|Number=Sing	3	obj	_	_
+5	(	(	PUNCT	O	_	6	punct	_	SpaceAfter=No
+6	Vasco	Vasco	PROPN	O	Gender=Masc|Number=Sing	4	parataxis	_	SpaceAfter=No
+7	)	)	PUNCT	O	_	6	punct	_	SpaceAfter=No
+8	,	,	PUNCT	O	_	9	punct	_	_
+9	Luizinho	Luizinho	PROPN	B	Gender=Masc|Number=Sing	4	conj	_	_
+10	e	e	CCONJ	O	_	11	cc	_	_
+11	Waldemar	Waldemar	PROPN	B	Gender=Masc|Number=Sing	9	conj	_	_
+12	de	de	ADP	I	_	13	case	_	_
+13	Brito	Brito	PROPN	I	Number=Sing	11	nmod	_	_
+14	(	(	PUNCT	O	_	15	punct	_	SpaceAfter=No
+15	São	São	PROPN	O	ExtPos=PROPN|Gender=Masc|Number=Sing	9	appos	_	_
+16	Paulo	Paulo	PROPN	O	Number=Sing	15	flat:name	_	SpaceAfter=No
+17	)	)	PUNCT	O	_	15	punct	_	SpaceAfter=No
+18	,	,	PUNCT	O	_	4	punct	_	_
+19	entre	entre	ADP	O	_	20	case	_	_
+20	outros	outro	PRON	O	Gender=Masc|Number=Plur|PronType=Ind	3	obl	_	SpaceAfter=No
+21	.	.	PUNCT	O	_	3	punct	_	_
+
+# text = O governo recebeu ontem outra má notícia: empresários se declararam contrários ao CIP.
+# sent_id = CF583-2
+# source = CETENFolha n=583 cad=Mundo sec=pol sem=94b
+1	O	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	governo	governo	NOUN	I	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	recebeu	receber	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	ontem	ontem	ADV	O	_	3	advmod	_	_
+5	outra	outro	DET	B	Gender=Fem|Number=Sing|PronType=Ind	7	det	_	_
+6	má	má	ADJ	I	Gender=Fem|Number=Sing	7	amod	_	_
+7	notícia	notícia	NOUN	I	Gender=Fem|Number=Sing	3	obj	_	SpaceAfter=No
+8	:	:	PUNCT	O	_	11	punct	_	_
+9	empresários	empresário	NOUN	B	Gender=Masc|Number=Plur	11	nsubj	_	_
+10	se	se	PRON	O	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	expl	_	_
+11	declararam	declarar	VERB	O	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	7	acl:relcl	_	_
+12	contrários	contrário	ADJ	B	Gender=Masc|Number=Plur	11	xcomp	_	_
+13-14	ao	_	_	I	_	_	_	_	_
+13	a	a	ADP	I	_	15	case	_	_
+14	o	o	DET	I	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	CIP	CIP	PROPN	I	Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
+16	.	.	PUNCT	O	_	3	punct	_	_
+
+# text = Estilistas estarão à disposição dos clientes.
+# sent_id = CF908-6
+# source = CETENFolha n=908 cad=Cotidiano sec=soc sem=94b
+1	Estilistas	estilista	NOUN	B	Gender=Masc|Number=Plur	2	nsubj	_	_
+2	estarão	estar	VERB	O	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+3-4	à	_	_	O	_	_	_	_	_
+3	a	a	ADP	O	_	5	case	_	_
+4	a	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	disposição	disposição	NOUN	I	Gender=Fem|Number=Sing	2	obl	_	_
+6-7	dos	_	_	I	_	_	_	_	_
+6	de	de	ADP	I	_	8	case	_	_
+7	os	o	DET	I	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	clientes	cliente	NOUN	I	Gender=Masc|Number=Plur	5	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	O	_	2	punct	_	_
+
+# newdoc_id = CF394
+# text = Segundo Rosa, nutricionista e professora da PUC de Campinas, junto com os alimentos se «ingerem e digerem afetos».
+# sent_id = CF394-1
+# source = CETENFolha n=394 cad=Cotidiano sec=soc sem=94b
+1	Segundo	segundo	ADP	O	_	2	case	_	_
+2	Rosa	Rosa	PROPN	B	Gender=Fem|Number=Sing	19	obl	_	SpaceAfter=No
+3	,	,	PUNCT	O	_	2	punct	_	_
+4	nutricionista	nutricionista	NOUN	O	Gender=Fem|Number=Sing	2	appos	_	_
+5	e	e	CCONJ	O	_	6	cc	_	_
+6	professora	professora	NOUN	O	Gender=Fem|Number=Sing	4	conj	_	_
+7-8	da	_	_	O	_	_	_	_	_
+7	de	de	ADP	O	_	9	case	_	_
+8	a	o	DET	O	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	PUC	PUC	PROPN	O	Gender=Fem|Number=Sing	4	nmod	_	_
+10	de	de	ADP	O	_	11	case	_	_
+11	Campinas	campina	NOUN	O	Gender=Fem|Number=Plur	9	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	O	_	4	punct	_	_
+13	junto	junto	ADV	O	_	19	advmod	_	_
+14	com	com	ADP	O	_	16	case	_	_
+15	os	o	DET	B	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	alimentos	alimento	NOUN	I	Gender=Masc|Number=Plur	13	obl	_	_
+17	se	se	PRON	O	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	19	expl	_	_
+18	«	«	PUNCT	O	_	19	punct	_	SpaceAfter=No
+19	ingerem	ingerir	VERB	O	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+20	e	e	CCONJ	O	_	21	cc	_	_
+21	digerem	digerir	VERB	O	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	conj	_	_
+22	afetos	afeto	NOUN	B	Gender=Masc|Number=Plur	21	nsubj	_	SpaceAfter=No
+23	»	»	PUNCT	O	_	19	punct	_	SpaceAfter=No
+24	.	.	PUNCT	O	_	19	punct	_	_
+
+# text = O direção geral é de Paulo Borges.
+# sent_id = CF271-3
+# source = CETENFolha n=271 cad=Ilustrada sec=nd sem=94a
+1	O	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art|Typo=Yes	2	det	_	CorrectForm=A
+2	direção	direção	NOUN	I	Gender=Fem|Number=Sing	6	nsubj	_	_
+3	geral	geral	ADJ	I	Gender=Fem|Number=Sing	2	amod	_	_
+4	é	ser	AUX	O	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	de	de	ADP	O	_	6	case	_	_
+6	Paulo	Paulo	PROPN	B	ExtPos=PROPN|Gender=Masc|Number=Sing	0	root	_	_
+7	Borges	Borges	PROPN	I	Number=Sing	6	flat:name	_	SpaceAfter=No
+8	.	.	PUNCT	O	_	6	punct	_	_
+
+# text = Só intelectual quatro-olhos?
+# sent_id = CF708-2
+# source = CETENFolha n=708 cad=Cotidiano sec=soc sem=94a
+1	Só	só	ADV	O	_	2	advmod	_	_
+2	intelectual	intelectual	NOUN	B	Gender=Masc|Number=Sing	0	root	_	_
+3	quatro-olhos	quatro-olhos	NOUN	I	Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+4	?	?	PUNCT	O	_	2	punct	_	_
+
+# newdoc_id = CF572
+# text = Se podemos nos orgulhar de nosso futebol, não podemos dizer o mesmo dos nossos árbitros, aqui representados exatamente por Marsiglia.
+# sent_id = CF572-1
+# source = CETENFolha n=572 cad=Esporte sec=des sem=94b
+1	Se	se	SCONJ	O	_	4	mark	_	_
+2	podemos	poder	VERB	O	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	11	advcl	_	_
+3	nos	nós	PRON	O	Case=Acc|Number=Plur|Person=1|PronType=Prs	4	obj	_	_
+4	orgulhar	orgulhar	VERB	O	VerbForm=Inf	2	xcomp	_	_
+5	de	de	ADP	O	_	7	case	_	_
+6	nosso	nosso	DET	B	Gender=Masc|Number=Sing|PronType=Prs	7	det	_	_
+7	futebol	futebol	NOUN	I	Gender=Masc|Number=Sing	4	iobj	_	SpaceAfter=No
+8	,	,	PUNCT	O	_	4	punct	_	_
+9	não	não	ADV	O	Polarity=Neg	11	advmod	_	_
+10	podemos	poder	VERB	O	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	dizer	dizer	VERB	O	VerbForm=Inf	10	xcomp	_	_
+12	o	o	DET	O	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	mesmo	mesmo	PRON	O	Gender=Masc|Number=Sing|PronType=Dem	11	xcomp	_	_
+14-15	dos	_	_	O	_	_	_	_	_
+14	de	de	ADP	O	_	17	case	_	_
+15	os	o	DET	B	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+16	nossos	nosso	DET	I	Gender=Masc|Number=Plur|PronType=Prs	17	det	_	_
+17	árbitros	árbitro	NOUN	I	Gender=Masc|Number=Plur	11	obj	_	SpaceAfter=No
+18	,	,	PUNCT	O	_	20	punct	_	_
+19	aqui	aqui	ADV	O	_	20	advmod	_	_
+20	representados	representar	VERB	O	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	17	acl	_	_
+21	exatamente	exatamente	ADV	O	_	20	advmod	_	_
+22	por	por	ADP	O	_	23	case	_	_
+23	Marsiglia	Marsiglia	PROPN	B	Gender=Masc|Number=Sing	20	obl:agent	_	SpaceAfter=No
+24	.	.	PUNCT	I	_	11	punct	_	_
+
+# text = Muitas das prioridades do novo governo coincidem com as prioridades do PT.
+# sent_id = CF1-8
+# source = CETENFolha n=1 cad=Opinião sec=opi sem=94a
+1	Muitas	muito	PRON	B	Gender=Fem|Number=Plur|PronType=Ind	9	nsubj	_	_
+2-3	das	_	_	I	_	_	_	_	_
+2	de	de	ADP	I	_	4	case	_	_
+3	as	o	DET	I	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
+4	prioridades	prioridade	NOUN	I	Gender=Fem|Number=Plur	1	nmod	_	_
+5-6	do	_	_	I	_	_	_	_	_
+5	de	de	ADP	I	_	8	case	_	_
+6	o	o	DET	I	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	novo	novo	ADJ	I	Gender=Masc|Number=Sing	8	amod	_	_
+8	governo	governo	NOUN	I	Gender=Masc|Number=Sing	4	nmod	_	_
+9	coincidem	coincidir	VERB	O	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	com	com	ADP	O	_	12	case	_	_
+11	as	o	DET	B	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+12	prioridades	prioridade	NOUN	I	Gender=Fem|Number=Plur	9	obj	_	_
+13-14	do	_	_	I	_	_	_	_	_
+13	de	de	ADP	I	_	15	case	_	_
+14	o	o	DET	I	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	PT	PT	PROPN	I	Gender=Masc|Number=Sing	12	nmod	_	SpaceAfter=No
+16	.	.	PUNCT	O	_	9	punct	_	_
+
+# text = Adoraria se vocês «engordassem» um pouco mais o Folhateen.
+# sent_id = CF488-4
+# source = CETENFolha n=488 cad=Folhateen sec=soc sem=94b
+1	Adoraria	adorar	VERB	O	Mood=Cnd|Number=Sing|Person=1|VerbForm=Fin	0	root	_	_
+2	se	se	SCONJ	O	_	5	mark	_	_
+3	vocês	você	PRON	O	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
+4	«	«	PUNCT	O	_	5	punct	_	SpaceAfter=No
+5	engordassem	engordar	VERB	O	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	1	ccomp	_	SpaceAfter=No
+6	»	»	PUNCT	O	_	5	punct	_	_
+7	um	um	DET	O	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	advmod	_	_
+8	pouco	pouco	ADV	O	_	7	fixed	_	_
+9	mais	mais	ADV	O	_	7	advmod	_	_
+10	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	Folhateen	Folhateen	PROPN	I	Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No
+12	.	.	PUNCT	O	_	1	punct	_	_
+
+# text = E, para um efeito extra, cite G. Love and Special Sauce.
+# sent_id = CF822-6
+# source = CETENFolha n=822 cad=Ilustrada sec=nd sem=94a
+1	E	e	CCONJ	O	_	8	cc	_	SpaceAfter=No
+2	,	,	PUNCT	O	_	5	punct	_	_
+3	para	para	ADP	O	_	5	case	_	_
+4	um	um	DET	B	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	efeito	efeito	NOUN	I	Gender=Masc|Number=Sing	8	obl	_	_
+6	extra	extra	ADJ	I	Gender=Masc|Number=Sing	5	amod	_	SpaceAfter=No
+7	,	,	PUNCT	O	_	5	punct	_	_
+8	cite	citar	VERB	O	Mood=Sub|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	G.	G.	PROPN	B	Abbr=Yes|ExtPos=PROPN|Gender=Masc|Number=Sing	8	obj	_	_
+10	Love	Love	PROPN	I	Number=Sing	9	flat:name	_	_
+11	and	and	CCONJ	O	_	9	cc	_	_
+12	Special	Special	PROPN	B	ExtPos=PROPN|Gender=Masc|Number=Sing	9	obj	_	_
+13	Sauce	Sauce	PROPN	I	Number=Sing	12	flat:name	_	SpaceAfter=No
+14	.	.	PUNCT	O	_	8	punct	_	_
+
+# newdoc_id = CF202
+# text = Papa indica mulher para secretaria
+# sent_id = CF202-1
+# source = CETENFolha n=202 cad=Mundo sec=pol sem=94b
+1	Papa	papa	NOUN	B	Gender=Masc|Number=Sing	2	nsubj	_	_
+2	indica	indicar	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mulher	mulher	NOUN	B	Gender=Fem|Number=Sing	2	obj	_	_
+4	para	para	ADP	I	_	5	case	_	_
+5	secretaria	secretaria	NOUN	I	Gender=Fem|Number=Sing	2	iobj	_	_
+
+# text = Pois é, Palmeiras e Corinthians fazem hoje a finalíssima do Brasileiro.
+# sent_id = CF586-2
+# source = CETENFolha n=586 cad=Esporte sec=des sem=94a
+1	Pois	pois	INTJ	O	_	7	discourse	_	_
+2	é	é	INTJ	O	_	1	fixed	_	SpaceAfter=No
+3	,	,	PUNCT	O	_	1	punct	_	_
+4	Palmeiras	Palmeiras	PROPN	B	Gender=Masc|Number=Sing	7	nsubj	_	_
+5	e	e	CCONJ	O	_	6	cc	_	_
+6	Corinthians	Corinthians	PROPN	B	Gender=Masc|Number=Sing	4	conj	_	_
+7	fazem	fazer	VERB	O	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	hoje	hoje	ADV	O	_	7	advmod	_	_
+9	a	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	finalíssima	finalíssima	NOUN	I	Gender=Fem|Number=Sing	7	obj	_	_
+11-12	do	_	_	I	_	_	_	_	_
+11	de	de	ADP	I	_	13	case	_	_
+12	o	o	DET	I	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	Brasileiro	brasileiro	NOUN	I	Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	O	_	7	punct	_	_
+
+# newdoc_id = CF667
+# text = Não me comprometa
+# sent_id = CF667-1
+# source = CETENFolha n=667 cad=Brasil sec=pol sem=94b
+1	Não	não	ADV	O	Polarity=Neg	3	advmod	_	_
+2	me	eu	PRON	O	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	_
+3	comprometa	comprometer	VERB	O	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+# text = A Otker e a Somel vão pedir contraprova.
+# sent_id = CF203-2
+# source = CETENFolha n=203 cad=Cotidiano sec=soc sem=94a
+1	A	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	Otker	Otker	PROPN	I	Gender=Fem|Number=Sing	7	nsubj	_	_
+3	e	e	CCONJ	O	_	5	cc	_	_
+4	a	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	Somel	Somel	PROPN	I	Gender=Fem|Number=Sing	2	conj	_	_
+6	vão	ir	AUX	O	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	pedir	pedir	VERB	O	VerbForm=Inf	0	root	_	_
+8	contraprova	contraprova	NOUN	B	Gender=Fem|Number=Sing	7	obj	_	SpaceAfter=No
+9	.	.	PUNCT	O	_	7	punct	_	_
+
+# text = A ex-prefeita Luiza Erundina participa hoje da divulgação de um balanço comparativo entre sua administração 89 a 92 e o primeiro ano da gestão Paulo Maluf à frente da Prefeitura de São Paulo.
+# sent_id = CF256-3
+# source = CETENFolha n=256 cad=Cotidiano sec=soc sem=94b
+1	A	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	ex-prefeita	ex-prefeita	NOUN	I	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	Luiza	Luiza	PROPN	O	ExtPos=PROPN|Gender=Fem|Number=Sing	2	appos	_	_
+4	Erundina	Erundina	PROPN	O	Number=Sing	3	flat:name	_	_
+5	participa	participar	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	hoje	hoje	ADV	O	_	5	advmod	_	_
+7-8	da	_	_	O	_	_	_	_	_
+7	de	de	ADP	O	_	9	case	_	_
+8	a	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	divulgação	divulgação	NOUN	I	Gender=Fem|Number=Sing	5	obj	_	_
+10	de	de	ADP	I	_	12	case	_	_
+11	um	um	DET	I	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	balanço	balanço	NOUN	I	Gender=Masc|Number=Sing	9	nmod	_	_
+13	comparativo	comparativo	ADJ	I	Gender=Masc|Number=Sing	12	amod	_	_
+14	entre	entre	ADP	O	_	16	case	_	_
+15	sua	seu	DET	B	Gender=Fem|Number=Sing|PronType=Prs	16	det	_	_
+16	administração	administração	NOUN	I	Gender=Fem|Number=Sing	12	nmod	_	_
+17	89	89	NUM	I	NumType=Card	16	nummod	_	_
+18	a	a	ADP	I	_	19	case	_	_
+19	92	92	NUM	I	NumType=Card	16	nmod	_	_
+20	e	e	CCONJ	O	_	23	cc	_	_
+21	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+22	primeiro	primeiro	ADJ	I	Gender=Masc|Number=Sing|NumType=Ord	23	amod	_	_
+23	ano	ano	NOUN	I	Gender=Masc|Number=Sing	16	conj	_	_
+24-25	da	_	_	I	_	_	_	_	_
+24	de	de	ADP	I	_	26	case	_	_
+25	a	o	DET	I	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
+26	gestão	gestão	NOUN	I	Gender=Fem|Number=Sing	23	nmod	_	_
+27	Paulo	Paulo	PROPN	I	ExtPos=PROPN|Gender=Masc|Number=Sing	26	appos	_	_
+28	Maluf	Maluf	PROPN	I	Number=Sing	27	flat:name	_	_
+29-30	à	_	_	O	_	_	_	_	_
+29	a	a	ADP	O	_	31	case	_	_
+30	a	o	DET	O	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	31	det	_	_
+31	frente	frente	NOUN	O	Gender=Fem|Number=Sing	26	nmod	_	_
+32-33	da	_	_	O	_	_	_	_	_
+32	de	de	ADP	O	_	34	case	_	_
+33	a	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	34	det	_	_
+34	Prefeitura	prefeitura	NOUN	I	Gender=Fem|Number=Sing	31	nmod	_	_
+35	de	de	ADP	I	_	36	case	_	_
+36	São	São	PROPN	I	ExtPos=PROPN|Gender=Masc|Number=Sing	34	nmod	_	_
+37	Paulo	Paulo	PROPN	I	Number=Sing	36	flat:name	_	SpaceAfter=No
+38	.	.	PUNCT	O	_	5	punct	_	_
+
+# newdoc_id = CF437
+# text = Comentei com minha amiga espanhola, Dolores de Pança, a profusão de beijos melados que massacraram minhas aveludadas bochechas na Bienal.
+# sent_id = CF437-1
+# source = CETENFolha n=437 cad=Cotidiano sec=soc sem=94b
+1	Comentei	comentar	VERB	O	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+2	com	com	ADP	O	_	4	case	_	_
+3	minha	meu	DET	B	Gender=Fem|Number=Sing|PronType=Prs	4	det	_	_
+4	amiga	amigo	NOUN	I	Gender=Fem|Number=Sing	1	iobj	_	_
+5	espanhola	espanhol	ADJ	I	Gender=Fem|Number=Sing	4	amod	_	SpaceAfter=No
+6	,	,	PUNCT	O	_	7	punct	_	_
+7	Dolores	Dolores	PROPN	O	Gender=Fem|Number=Sing	4	appos	_	_
+8	de	de	ADP	O	_	9	case	_	_
+9	Pança	Pança	PROPN	O	Number=Sing	7	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	O	_	7	punct	_	_
+11	a	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	profusão	profusão	NOUN	I	Gender=Fem|Number=Sing	1	obj	_	_
+13	de	de	ADP	I	_	14	case	_	_
+14	beijos	beijo	NOUN	I	Gender=Masc|Number=Plur	12	nmod	_	_
+15	melados	melar	VERB	I	Gender=Masc|Number=Plur|VerbForm=Part	14	acl	_	_
+16	que	que	PRON	O	Gender=Masc|Number=Plur|PronType=Rel	17	nsubj	_	_
+17	massacraram	massacrar	VERB	O	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	14	acl:relcl	_	_
+18	minhas	meu	DET	B	Gender=Fem|Number=Plur|PronType=Prs	20	det	_	_
+19	aveludadas	aveludado	ADJ	I	Gender=Fem|Number=Plur	20	amod	_	_
+20	bochechas	bochecha	NOUN	I	Gender=Fem|Number=Plur	17	obj	_	_
+21-22	na	_	_	I	_	_	_	_	_
+21	em	em	ADP	I	_	23	case	_	_
+22	a	o	DET	I	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
+23	Bienal	bienal	NOUN	I	Gender=Fem|Number=Sing	17	obl	_	SpaceAfter=No
+24	.	.	PUNCT	O	_	1	punct	_	_
+
+# newdoc_id = CF317
+# text = Claras evidências
+# sent_id = CF317-1
+# source = CETENFolha n=317 cad=Brasil sec=pol sem=94a
+1	Claras	claro	ADJ	B	Gender=Fem|Number=Plur	2	amod	_	_
+2	evidências	evidência	NOUN	I	Gender=Fem|Number=Plur	0	root	_	_
+
+# text = A menina morreu na hora.
+# sent_id = CF820-3
+# source = CETENFolha n=820 cad=Brasil sec=pol sem=94b
+1	A	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	menina	menina	NOUN	I	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	morreu	morrer	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4-5	na	_	_	O	_	_	_	_	_
+4	em	em	ADP	O	_	6	case	_	_
+5	a	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	hora	hora	NOUN	I	Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
+7	.	.	PUNCT	O	_	3	punct	_	_
+
+# newdoc_id = CF654
+# text = «Eles são a razão de tudo o que faço, de tudo aquilo em que acredito», disse, com grandes espaços entre as palavras.
+# sent_id = CF654-1
+# source = CETENFolha n=654 cad=Caderno Especial sec=nd sem=94a
+1	«	«	PUNCT	O	_	5	punct	_	SpaceAfter=No
+2	Eles	eles	PRON	O	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
+3	são	ser	AUX	O	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	a	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	razão	razão	NOUN	I	Gender=Fem|Number=Sing	20	ccomp	_	_
+6	de	de	ADP	O	_	10	mark	_	_
+7	tudo	tudo	PRON	O	Gender=Fem|Number=Sing|PronType=Rel	9	det	_	_
+8	o	o	DET	O	Gender=Masc|Number=Sing|PronType=Dem	9	det	_	_
+9	que	que	PRON	O	Gender=Masc|Number=Sing|PronType=Dem	10	obj	_	_
+10	faço	fazer	VERB	O	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	acl	_	SpaceAfter=No
+11	,	,	PUNCT	O	_	14	punct	_	_
+12	de	de	ADP	O	_	14	case	_	_
+13	tudo	tudo	PRON	O	Gender=Masc|Number=Sing|PronType=Ind	14	det	_	_
+14	aquilo	aquilo	PRON	O	Gender=Masc|Number=Sing|PronType=Dem	10	conj	_	_
+15	em	em	SCONJ	O	_	17	mark	_	_
+16	que	que	PRON	O	Gender=Masc|Number=Sing|PronType=Rel	17	obj	_	_
+17	acredito	acreditar	VERB	O	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	SpaceAfter=No
+18	»	»	PUNCT	O	_	5	punct	_	SpaceAfter=No
+19	,	,	PUNCT	O	_	20	punct	_	_
+20	disse	dizer	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+21	,	,	PUNCT	O	_	20	punct	_	_
+22	com	com	ADP	O	_	24	case	_	_
+23	grandes	grande	ADJ	B	Gender=Masc|Number=Plur	24	amod	_	_
+24	espaços	espaço	NOUN	I	Gender=Masc|Number=Plur	20	obl	_	_
+25	entre	entre	ADP	I	_	27	case	_	_
+26	as	o	DET	I	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	27	det	_	_
+27	palavras	palavra	NOUN	I	Gender=Fem|Number=Plur	24	nmod	_	SpaceAfter=No
+28	.	.	PUNCT	O	_	20	punct	_	_
+
+# text = Com a Servaz, segundo o documento obtido pela Folha a Odebrecht acerta o pagamento de US$ 110 mil mais uma porcentagem referente a obras de abastecimento de água em Roraima, ainda a serem licitadas.
+# sent_id = CF103-5
+# source = CETENFolha n=103 cad=Brasil sec=pol sem=94b
+1	Com	com	ADP	O	_	3	case	_	_
+2	a	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Servaz	Servaz	PROPN	I	Gender=Fem|Number=Sing	14	obl	_	SpaceAfter=No
+4	,	,	PUNCT	O	_	3	punct	_	_
+5	segundo	segundo	ADP	O	_	7	case	_	_
+6	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	documento	documento	NOUN	I	Gender=Masc|Number=Sing	14	obl	_	_
+8	obtido	obter	VERB	O	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	7	acl	_	_
+9-10	pela	_	_	O	_	_	_	_	_
+9	por	por	ADP	O	_	11	case	_	_
+10	a	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	Folha	folha	NOUN	I	Gender=Fem|Number=Sing	8	obl:agent	_	_
+12	a	o	DET	I	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	Odebrecht	Odebrecht	PROPN	I	Gender=Fem|Number=Sing	14	nsubj	_	_
+14	acerta	acertar	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+15	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	pagamento	pagamento	NOUN	I	Gender=Masc|Number=Sing	14	obj	_	_
+17	de	de	ADP	I	_	18	case	_	_
+18	US$	US$	SYM	I	_	16	nmod	_	_
+19	110	110	NUM	I	NumType=Card	18	nummod	_	_
+20	mil	mil	NUM	I	NumType=Card	19	flat	_	_
+21	mais	mais	ADV	O	_	23	cc	_	_
+22	uma	uma	NUM	B	NumType=Card	23	nummod	_	_
+23	porcentagem	porcentagem	NOUN	I	Gender=Fem|Number=Sing	18	conj	_	_
+24	referente	referente	ADV	O	_	23	advmod	_	_
+25	a	a	ADP	B	_	26	case	_	_
+26	obras	obra	NOUN	I	Gender=Fem|Number=Plur	24	obl	_	_
+27	de	de	ADP	I	_	28	case	_	_
+28	abastecimento	abastecimento	NOUN	I	Gender=Masc|Number=Sing	26	nmod	_	_
+29	de	de	ADP	I	_	30	case	_	_
+30	água	água	NOUN	I	Gender=Fem|Number=Sing	28	nmod	_	_
+31	em	em	ADP	I	_	32	case	_	_
+32	Roraima	Roraima	PROPN	I	Gender=Fem|Number=Sing	14	obl	_	SpaceAfter=No
+33	,	,	PUNCT	O	_	14	punct	_	_
+34	ainda	ainda	ADV	O	ExtPos=SCONJ	37	mark	_	_
+35	a	a	ADP	O	_	34	fixed	_	_
+36	serem	ser	AUX	O	Number=Plur|Person=3|VerbForm=Inf	37	aux:pass	_	_
+37	licitadas	licitar	VERB	O	Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	14	advcl	_	SpaceAfter=No
+38	.	.	PUNCT	O	_	14	punct	_	_
+
+# newdoc_id = CF104
+# text = Liberdade sindical
+# sent_id = CF104-1
+# source = CETENFolha n=104 cad=Dinheiro sec=eco sem=94a
+1	Liberdade	liberdade	NOUN	B	Gender=Fem|Number=Sing	0	root	_	_
+2	sindical	sindical	ADJ	I	Gender=Fem|Number=Sing	1	amod	_	_
+
+# text = As taxas de juros equivalentes dos CDBs diminuíram 2,31 pontos percentuais em relação à média da última segunda-feira.
+# sent_id = CF410-4
+# source = CETENFolha n=410 cad=Dinheiro sec=eco sem=94a
+1	As	o	DET	B	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	taxas	taxa	NOUN	I	Gender=Fem|Number=Plur	9	nsubj	_	_
+3	de	de	ADP	I	_	4	case	_	_
+4	juros	juro	NOUN	I	Gender=Masc|Number=Plur	2	nmod	_	_
+5	equivalentes	equivalente	ADJ	I	Gender=Masc|Number=Plur	4	amod	_	_
+6-7	dos	_	_	I	_	_	_	_	_
+6	de	de	ADP	I	_	8	case	_	_
+7	os	o	DET	I	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	CDBs	CDBs	PROPN	I	Gender=Masc|Number=Plur	4	nmod	_	_
+9	diminuíram	diminuir	VERB	O	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
+10	2,31	2,31	NUM	B	NumType=Card	11	nummod	_	_
+11	pontos	ponto	NOUN	I	Gender=Masc|Number=Plur	9	obj	_	_
+12	percentuais	percentual	ADJ	I	Gender=Masc|Number=Plur	11	amod	_	_
+13	em	em	ADP	O	_	14	case	_	_
+14	relação	relação	NOUN	O	Gender=Fem|Number=Sing	9	obl	_	_
+15-16	à	_	_	O	_	_	_	_	_
+15	a	a	ADP	B	_	17	case	_	_
+16	a	o	DET	I	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	média	média	NOUN	I	Gender=Fem|Number=Sing	14	nmod	_	_
+18-19	da	_	_	I	_	_	_	_	_
+18	de	de	ADP	I	_	21	case	_	_
+19	a	o	DET	I	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+20	última	último	ADJ	I	Gender=Fem|Number=Sing|NumType=Ord	21	amod	_	_
+21	segunda-feira	segunda-feira	NOUN	I	Gender=Fem|Number=Sing	17	nmod	_	SpaceAfter=No
+22	.	.	PUNCT	O	_	9	punct	_	_
+
+# text = Peixe passou a ter gosto de carne para mim e uma noite destas, no Rodeio, eu confundi salsicha caseira com frango kebab.
+# sent_id = CF852-3
+# source = CETENFolha n=852 cad=Ilustrada sec=nd sem=94b
+1	Peixe	peixe	NOUN	B	Gender=Masc|Number=Sing	2	nsubj	_	_
+2	passou	passar	VERB	O	ExtPos=AUX|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	a	a	SCONJ	O	_	4	mark	_	_
+4	ter	ter	VERB	O	VerbForm=Inf	2	xcomp	_	_
+5	gosto	gosto	NOUN	B	Gender=Masc|Number=Sing	4	obj	_	_
+6	de	de	ADP	I	_	7	case	_	_
+7	carne	carne	NOUN	I	Gender=Fem|Number=Sing	5	nmod	_	_
+8	para	para	ADP	O	_	9	case	_	_
+9	mim	eu	PRON	O	Gender=Masc|Number=Sing|Person=1|PronType=Prs	4	obl	_	_
+10	e	e	CCONJ	O	_	21	cc	_	_
+11	uma	um	DET	B	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	noite	noite	NOUN	I	Gender=Fem|Number=Sing	21	obl	_	_
+13-14	destas	_	_	O	_	_	_	_	SpaceAfter=No
+13	de	de	ADP	O	_	14	case	_	_
+14	estas	este	PRON	O	Gender=Fem|Number=Plur|PronType=Dem	12	det	_	_
+15	,	,	PUNCT	O	_	12	punct	_	_
+16-17	no	_	_	O	_	_	_	_	_
+16	em	em	ADP	O	_	18	case	_	_
+17	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	Rodeio	rodeio	NOUN	I	Gender=Masc|Number=Sing	21	obl	_	SpaceAfter=No
+19	,	,	PUNCT	O	_	18	punct	_	_
+20	eu	eu	PRON	O	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	21	nsubj	_	_
+21	confundi	confundir	VERB	O	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	4	conj	_	_
+22	salsicha	salsicha	NOUN	B	Gender=Fem|Number=Sing	21	obj	_	_
+23	caseira	caseiro	ADJ	I	Gender=Fem|Number=Sing	22	amod	_	_
+24	com	com	ADP	O	_	25	case	_	_
+25	frango	frango	NOUN	B	Gender=Masc|Number=Sing	21	iobj	_	_
+26	kebab	kebab	X	I	Gender=Masc|Number=Sing	25	nmod	_	SpaceAfter=No
+27	.	.	PUNCT	O	_	4	punct	_	_
+
+# text = A reunião terminou ontem em Budapeste.
+# sent_id = CF788-6
+# source = CETENFolha n=788 cad=Mundo sec=pol sem=94a
+1	A	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	reunião	reunião	NOUN	I	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	terminou	terminar	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	ontem	ontem	ADV	O	_	3	advmod	_	_
+5	em	em	ADP	O	_	6	case	_	_
+6	Budapeste	Budapeste	PROPN	B	Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
+7	.	.	PUNCT	O	_	3	punct	_	_
+
+# newdoc_id = CF635
+# text = Mas a bordo de um 'cadillac' preto conversível, o presidente Menem atravessou a pista do parque da Sociedade Rural Argentina sob os aplausos da platéia de cerca de 10 mil agricultores.
+# sent_id = CF635-1
+# source = CETENFolha n=635 cad=Agrofolha sec=agr sem=94a
+1	Mas	mas	CCONJ	O	_	15	cc	_	_
+2	a	a	ADP	O	_	3	case	_	_
+3	bordo	bordo	NOUN	O	Gender=Masc|Number=Sing	15	obl	_	_
+4	de	de	ADP	O	_	7	case	_	_
+5	um	um	DET	B	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	'	'	PUNCT	I	_	7	punct	_	SpaceAfter=No
+7	cadillac	cadillac	NOUN	I	Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+8	'	'	PUNCT	I	_	7	punct	_	_
+9	preto	preto	ADJ	I	Gender=Masc|Number=Sing	7	amod	_	_
+10	conversível	conversível	ADJ	I	Gender=Masc|Number=Sing	7	amod	_	SpaceAfter=No
+11	,	,	PUNCT	O	_	3	punct	_	_
+12	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	presidente	presidente	NOUN	I	Gender=Masc|Number=Sing	15	nsubj	_	_
+14	Menem	Menem	PROPN	I	Gender=Masc|Number=Sing	13	appos	_	_
+15	atravessou	atravessar	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+16	a	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	pista	pista	NOUN	I	Gender=Fem|Number=Sing	15	obj	_	_
+18-19	do	_	_	I	_	_	_	_	_
+18	de	de	ADP	I	_	20	case	_	_
+19	o	o	DET	I	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	parque	parque	NOUN	I	Gender=Masc|Number=Sing	17	nmod	_	_
+21-22	da	_	_	I	_	_	_	_	_
+21	de	de	ADP	I	_	23	case	_	_
+22	a	o	DET	I	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
+23	Sociedade	Sociedade	PROPN	I	ExtPos=PROPN|Gender=Fem|Number=Sing	20	nmod	_	_
+24	Rural	Rural	PROPN	I	Number=Sing	23	flat:name	_	_
+25	Argentina	Argentina	PROPN	I	Number=Sing	23	flat:name	_	_
+26	sob	sob	ADP	O	_	28	case	_	_
+27	os	o	DET	B	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	28	det	_	_
+28	aplausos	aplauso	NOUN	I	Gender=Masc|Number=Plur	15	obl	_	_
+29-30	da	_	_	I	_	_	_	_	_
+29	de	de	ADP	I	_	31	case	_	_
+30	a	o	DET	I	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	31	det	_	_
+31	platéia	platéia	NOUN	I	Gender=Fem|Number=Sing	28	nmod	_	_
+32	de	de	ADP	I	_	37	case	_	_
+33	cerca	cerca	ADV	I	ExtPos=ADV	37	advmod	_	_
+34	de	de	ADP	I	_	33	fixed	_	_
+35	10	10	NUM	I	NumType=Card	37	nummod	_	_
+36	mil	mil	NUM	I	NumType=Card	35	flat	_	_
+37	agricultores	agricultor	NOUN	I	Gender=Masc|Number=Plur	31	nmod	_	SpaceAfter=No
+38	.	.	PUNCT	O	_	15	punct	_	_
+
+# text = Romário era querido, mas em certos bares ele não entrava», diz um taxista.
+# sent_id = CF258-3
+# source = CETENFolha n=258 cad=Esporte sec=des sem=94a
+1	Romário	Romário	PROPN	B	Gender=Masc|Number=Sing	3	nsubj	_	_
+2	era	ser	AUX	O	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
+3	querido	querido	ADJ	O	Gender=Masc|Number=Sing	14	parataxis	_	SpaceAfter=No
+4	,	,	PUNCT	O	_	11	punct	_	_
+5	mas	mas	CCONJ	O	_	11	cc	_	_
+6	em	em	ADP	O	_	8	case	_	_
+7	certos	certos	DET	B	Gender=Masc|Number=Plur|PronType=Ind	8	det	_	_
+8	bares	bar	NOUN	I	Gender=Masc|Number=Plur	11	obl	_	_
+9	ele	ele	PRON	O	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
+10	não	não	ADV	O	Polarity=Neg	11	advmod	_	_
+11	entrava	entravar	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	SpaceAfter=No
+12	»	»	PUNCT	O	_	3	punct	_	SpaceAfter=No
+13	,	,	PUNCT	O	_	14	punct	_	_
+14	diz	dizer	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+15	um	um	DET	B	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	taxista	taxista	NOUN	I	Gender=Masc|Number=Sing	14	nsubj	_	SpaceAfter=No
+17	.	.	PUNCT	O	_	14	punct	_	_
+
+# text = Quero ser uma das melhores atrizes do mundo.
+# sent_id = CF467-7
+# source = CETENFolha n=467 cad=Revista Folha sec=nd sem=94a
+1	Quero	querer	VERB	O	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ser	ser	AUX	O	VerbForm=Inf	3	cop	_	_
+3	uma	uma	NUM	B	NumType=Card	1	obl	_	_
+4-5	das	_	_	I	_	_	_	_	_
+4	de	de	ADP	I	_	7	case	_	_
+5	as	o	DET	I	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+6	melhores	bom	ADJ	I	Gender=Fem|Number=Plur	7	amod	_	_
+7	atrizes	atriz	NOUN	I	Gender=Fem|Number=Plur	3	nmod	_	_
+8-9	do	_	_	I	_	_	_	_	_
+8	de	de	ADP	I	_	10	case	_	_
+9	o	o	DET	I	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	mundo	mundo	NOUN	I	Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	O	_	1	punct	_	_
+
+# text = No PPR, a discussão será sobre a política de alianças e se ela inclui o PSDB, além dos novos candidatos do partido a presidente.
+# sent_id = CF346-3
+# source = CETENFolha n=346 cad=Brasil sec=pol sem=94b
+1-2	No	_	_	O	_	_	_	_	_
+1	Em	em	ADP	O	_	3	case	_	_
+2	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	PPR	PPR	PROPN	I	Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	O	_	3	punct	_	_
+5	a	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	discussão	discussão	NOUN	I	Gender=Fem|Number=Sing	10	nsubj	_	_
+7	será	ser	AUX	O	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	10	cop	_	_
+8	sobre	sobre	ADP	O	_	10	case	_	_
+9	a	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	política	política	NOUN	I	Gender=Fem|Number=Sing	0	root	_	_
+11	de	de	ADP	I	_	12	case	_	_
+12	alianças	aliança	NOUN	I	Gender=Fem|Number=Plur	10	nmod	_	_
+13	e	e	CCONJ	O	_	16	cc	_	_
+14	se	se	SCONJ	O	_	16	mark	_	_
+15	ela	ela	PRON	O	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	_
+16	inclui	incluir	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	_
+17	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	PSDB	psdb	NOUN	I	Gender=Masc|Number=Sing	16	obj	_	SpaceAfter=No
+19	,	,	PUNCT	O	_	24	punct	_	_
+20	além	além	ADV	O	_	24	cc	_	_
+21-22	dos	_	_	O	_	_	_	_	_
+21	de	de	ADP	O	_	20	fixed	_	_
+22	os	o	DET	B	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	24	det	_	_
+23	novos	novo	ADJ	I	Gender=Masc|Number=Plur	24	amod	_	_
+24	candidatos	candidato	NOUN	I	Gender=Masc|Number=Plur	18	conj	_	_
+25-26	do	_	_	I	_	_	_	_	_
+25	de	de	ADP	I	_	27	case	_	_
+26	o	o	DET	I	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
+27	partido	partido	NOUN	I	Gender=Masc|Number=Sing	24	nmod	_	_
+28	a	a	ADP	I	_	29	case	_	_
+29	presidente	presidente	NOUN	I	Gender=Masc|Number=Sing	27	nmod	_	SpaceAfter=No
+30	.	.	PUNCT	O	_	10	punct	_	_
+
+# text = Fantasia infantil:
+# sent_id = CF74-7
+# source = CETENFolha n=74 cad=Revista Folha sec=nd sem=94b
+1	Fantasia	fantasia	NOUN	B	Gender=Fem|Number=Sing	0	root	_	_
+2	infantil	infantil	ADJ	I	Gender=Fem|Number=Sing	1	amod	_	SpaceAfter=No
+3	:	:	PUNCT	O	_	1	punct	_	_
+
+# text = Não foi o único.
+# sent_id = CF766-12
+# source = CETENFolha n=766 cad=Ilustrada sec=nd sem=94b
+1	Não	não	ADV	O	Polarity=Neg	4	advmod	_	_
+2	foi	ser	AUX	O	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_
+3	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	único	único	ADJ	I	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	O	_	4	punct	_	_
+
+# text = Quem experimenta a última versão (safra 91) descobrirá um vinho novo ainda, adstringente, mas de aroma e sabor intensos.
+# sent_id = CF649-5
+# source = CETENFolha n=649 cad=Ilustrada sec=nd sem=94b &E
+1	Quem	quem	PRON	O	Number=Sing|PronType=Rel	2	nsubj	_	_
+2	experimenta	experimentar	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	csubj	_	_
+3	a	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	última	último	ADJ	I	Gender=Fem|Number=Sing|NumType=Ord	5	amod	_	_
+5	versão	versão	NOUN	I	Gender=Fem|Number=Sing	2	obj	_	_
+6	(	(	PUNCT	O	_	7	punct	_	SpaceAfter=No
+7	safra	safra	NOUN	O	Gender=Fem|Number=Sing	5	appos	_	_
+8	91	91	NUM	O	NumType=Card	7	nummod	_	SpaceAfter=No
+9	)	)	PUNCT	O	_	7	punct	_	_
+10	descobrirá	descobrir	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+11	um	um	DET	B	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	vinho	vinho	NOUN	I	Gender=Masc|Number=Sing	10	obj	_	_
+13	novo	novo	ADJ	I	Gender=Masc|Number=Sing	12	amod	_	_
+14	ainda	ainda	ADV	O	_	13	advmod	_	SpaceAfter=No
+15	,	,	PUNCT	O	_	16	punct	_	_
+16	adstringente	adstringente	ADJ	O	Gender=Masc|Number=Sing	12	amod	_	SpaceAfter=No
+17	,	,	PUNCT	O	_	16	punct	_	_
+18	mas	mas	CCONJ	O	_	20	cc	_	_
+19	de	de	ADP	O	_	20	case	_	_
+20	aroma	aroma	NOUN	B	Gender=Masc|Number=Sing	16	conj	_	_
+21	e	e	CCONJ	O	_	22	cc	_	_
+22	sabor	sabor	NOUN	B	Gender=Masc|Number=Sing	20	conj	_	_
+23	intensos	intenso	ADJ	I	Gender=Masc|Number=Plur	20	amod	_	SpaceAfter=No
+24	.	.	PUNCT	O	_	10	punct	_	_
+
+# newdoc_id = CF655
+# text = Enquanto é tempo
+# sent_id = CF655-1
+# source = CETENFolha n=655 cad=Brasil sec=pol sem=94a
+1	Enquanto	enquanto	ADV	O	_	3	advmod	_	_
+2	é	ser	AUX	O	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	tempo	tempo	NOUN	B	Gender=Masc|Number=Sing	0	root	_	_
+
+# text = Os níveis dos depósitos aumentaram 440%, em 1993, basicamente em função de depósitos interfinanceiros e a prazo.
+# sent_id = CF713-2
+# source = CETENFolha n=713 cad=Caderno Especial sec=nd sem=94a
+1	Os	o	DET	B	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	níveis	nível	NOUN	I	Gender=Masc|Number=Plur	6	nsubj	_	_
+3-4	dos	_	_	I	_	_	_	_	_
+3	de	de	ADP	I	_	5	case	_	_
+4	os	o	DET	I	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	depósitos	depósito	NOUN	I	Gender=Masc|Number=Plur	2	nmod	_	_
+6	aumentaram	aumentar	VERB	O	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
+7	440	440	NUM	O	NumType=Card	8	nummod	_	SpaceAfter=No
+8	%	%	SYM	O	_	6	obj	_	SpaceAfter=No
+9	,	,	PUNCT	O	_	6	punct	_	_
+10	em	em	ADP	O	_	11	case	_	_
+11	1993	1993	NUM	O	NumType=Card	6	obl	_	SpaceAfter=No
+12	,	,	PUNCT	O	_	6	punct	_	_
+13	basicamente	basicamente	ADV	O	_	17	advmod	_	_
+14	em	em	ADP	O	_	15	case	_	_
+15	função	função	NOUN	O	Gender=Fem|Number=Sing	6	obl	_	_
+16	de	de	ADP	O	_	17	case	_	_
+17	depósitos	depósito	NOUN	B	Gender=Masc|Number=Plur	15	nmod	_	_
+18	interfinanceiros	interfinanceiro	ADJ	I	Gender=Masc|Number=Plur	17	amod	_	_
+19	e	e	CCONJ	O	_	21	cc	_	_
+20	a	a	ADP	B	_	21	case	_	_
+21	prazo	prazo	NOUN	I	Gender=Masc|Number=Sing	18	conj	_	SpaceAfter=No
+22	.	.	PUNCT	O	_	6	punct	_	_
+
+# text = A cantora e violinista Meca Vargas não faz coro com os contentes com o computador.
+# sent_id = CF365-3
+# source = CETENFolha n=365 cad=Informática sec=com sem=94b
+1	A	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	cantora	cantora	NOUN	I	Gender=Fem|Number=Sing	8	nsubj	_	_
+3	e	e	CCONJ	O	_	4	cc	_	_
+4	violinista	violinista	NOUN	B	Gender=Fem|Number=Sing	2	conj	_	_
+5	Meca	Meca	PROPN	I	ExtPos=PROPN|Gender=Fem|Number=Sing	2	appos	_	_
+6	Vargas	Vargas	PROPN	I	Number=Sing	5	flat:name	_	_
+7	não	não	ADV	O	Polarity=Neg	8	advmod	_	_
+8	faz	fazer	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	coro	coro	NOUN	B	Gender=Masc|Number=Sing	8	obj	_	_
+10	com	com	ADP	I	_	12	case	_	_
+11	os	o	DET	I	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	contentes	contente	NOUN	I	Gender=Masc|Number=Plur	9	nmod	_	_
+13	com	com	ADP	I	_	15	case	_	_
+14	o	o	DET	I	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	computador	computador	NOUN	I	Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
+16	.	.	PUNCT	O	_	8	punct	_	_
+
+# newdoc_id = CF423
+# text = Essas dificuldades, que surgiram desde o lançamento da idéia, estimularam economistas e governo a buscar caminhos mais rápidos.
+# sent_id = CF423-1
+# source = CETENFolha n=423 cad=Brasil sec=pol sem=94b
+1	Essas	esse	DET	B	Gender=Fem|Number=Plur|PronType=Dem	2	det	_	_
+2	dificuldades	dificuldade	NOUN	I	Gender=Fem|Number=Plur	13	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	O	_	2	punct	_	_
+4	que	que	PRON	O	Gender=Fem|Number=Plur|PronType=Rel	5	nsubj	_	_
+5	surgiram	surgir	VERB	O	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	2	acl:relcl	_	_
+6	desde	desde	ADP	O	_	8	case	_	_
+7	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	lançamento	lançamento	NOUN	I	Gender=Masc|Number=Sing	5	obl	_	_
+9-10	da	_	_	I	_	_	_	_	_
+9	de	de	ADP	I	_	11	case	_	_
+10	a	o	DET	I	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	idéia	idéia	NOUN	I	Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	O	_	5	punct	_	_
+13	estimularam	estimular	VERB	O	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
+14	economistas	economista	NOUN	B	Gender=Masc|Number=Plur	13	obj	_	_
+15	e	e	CCONJ	O	_	16	cc	_	_
+16	governo	governo	NOUN	B	Gender=Masc|Number=Sing	14	conj	_	_
+17	a	a	SCONJ	O	_	18	mark	_	_
+18	buscar	buscar	VERB	O	VerbForm=Inf	13	xcomp	_	_
+19	caminhos	caminho	NOUN	B	Gender=Masc|Number=Plur	18	obj	_	_
+20	mais	mais	ADV	I	_	21	advmod	_	_
+21	rápidos	rápido	ADJ	I	Gender=Masc|Number=Plur	19	amod	_	SpaceAfter=No
+22	.	.	PUNCT	O	_	13	punct	_	_
+
+# newdoc_id = CF712
+# text = O produtor iniciou a colheita, em fevereiro passado, de 170 hectares de amendoim e 240 hectares de soja.
+# sent_id = CF712-1
+# source = CETENFolha n=712 cad=Agrofolha sec=agr sem=94b
+1	O	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	produtor	produtor	NOUN	I	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	iniciou	iniciar	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	a	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	colheita	colheita	NOUN	I	Gender=Fem|Number=Sing	3	obj	_	SpaceAfter=No
+6	,	,	PUNCT	O	_	8	punct	_	_
+7	em	em	ADP	O	_	8	case	_	_
+8	fevereiro	fevereiro	NOUN	B	Gender=Masc|Number=Sing	3	obl	_	_
+9	passado	passado	ADJ	I	Gender=Masc|Number=Sing	8	amod	_	SpaceAfter=No
+10	,	,	PUNCT	O	_	8	punct	_	_
+11	de	de	ADP	O	_	13	case	_	_
+12	170	170	NUM	B	NumType=Card	13	nummod	_	_
+13	hectares	hectare	NOUN	I	Gender=Masc|Number=Plur	5	nmod	_	_
+14	de	de	ADP	I	_	15	case	_	_
+15	amendoim	amendoim	NOUN	I	Gender=Masc|Number=Sing	13	nmod	_	_
+16	e	e	CCONJ	O	_	18	cc	_	_
+17	240	240	NUM	B	NumType=Card	18	nummod	_	_
+18	hectares	hectare	NOUN	I	Gender=Masc|Number=Plur	13	conj	_	_
+19	de	de	ADP	I	_	20	case	_	_
+20	soja	soja	NOUN	I	Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	O	_	3	punct	_	_
+
+# text = O mar é cristalino.
+# sent_id = CF944-4
+# source = CETENFolha n=944 cad=Turismo sec=soc sem=94a
+1	O	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	mar	mar	NOUN	I	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	é	ser	AUX	O	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	cristalino	cristalino	ADJ	B	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	O	_	4	punct	_	_
+
+# newdoc_id = CF875
+# text = Tomado de surpresa, Santana deu um sorriso amarelo, mas logo recuperou-se:
+# sent_id = CF875-1
+# source = CETENFolha n=875 cad=Brasil sec=pol sem=94a
+1	Tomado	tomar	VERB	O	Gender=Masc|Number=Sing|VerbForm=Part	5	acl	_	_
+2	de	de	ADP	O	_	3	case	_	_
+3	surpresa	surpresa	NOUN	O	Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
+4	,	,	PUNCT	O	_	1	punct	_	_
+5	Santana	Santana	PROPN	B	Gender=Masc|Number=Sing	6	nsubj	_	_
+6	deu	dar	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	um	um	DET	B	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	sorriso	sorriso	NOUN	I	Gender=Masc|Number=Sing	6	obj	_	_
+9	amarelo	amarelo	ADJ	I	Gender=Masc|Number=Sing	8	amod	_	SpaceAfter=No
+10	,	,	PUNCT	O	_	13	punct	_	_
+11	mas	mas	CCONJ	O	_	13	cc	_	_
+12	logo	logo	ADV	O	_	13	advmod	_	_
+13-14	recuperou-se	_	_	O	_	_	_	_	SpaceAfter=No
+13	recuperou	recuperar	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
+14	se	se	PRON	O	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	expl	_	_
+15	:	:	PUNCT	O	_	6	punct	_	_
+
+# newdoc_id = CF263
+# text = Na noite de ontem, havia cerca de 3.000 pessoas retidas no aeroporto de Ezeiza, o principal de Buenos Aires.
+# sent_id = CF263-1
+# source = CETENFolha n=263 cad=Mundo sec=pol sem=94a
+1-2	Na	_	_	O	_	_	_	_	_
+1	Em	em	ADP	O	_	3	case	_	_
+2	a	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	noite	noite	NOUN	I	Gender=Fem|Number=Sing	7	obl	_	_
+4	de	de	ADP	I	_	5	case	_	_
+5	ontem	ontem	ADV	I	_	3	advmod	_	SpaceAfter=No
+6	,	,	PUNCT	O	_	3	punct	_	_
+7	havia	haver	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+8	cerca	cerca	ADV	O	ExtPos=ADV	11	advmod	_	_
+9	de	de	ADP	O	_	8	fixed	_	_
+10	3.000	3.000	NUM	B	NumType=Card	11	nummod	_	_
+11	pessoas	pessoa	NOUN	I	Gender=Fem|Number=Plur	7	obj	_	_
+12	retidas	reter	VERB	I	Gender=Fem|Number=Plur|VerbForm=Part	11	acl	_	_
+13-14	no	_	_	O	_	_	_	_	_
+13	em	em	ADP	O	_	15	case	_	_
+14	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	aeroporto	aeroporto	NOUN	I	Gender=Masc|Number=Sing	12	obl	_	_
+16	de	de	ADP	I	_	17	case	_	_
+17	Ezeiza	Ezeiza	PROPN	I	Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	O	_	20	punct	_	_
+19	o	o	DET	O	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	principal	principal	NOUN	O	Gender=Masc|Number=Sing	17	amod	_	_
+21	de	de	ADP	O	_	22	case	_	_
+22	Buenos	Buenos	PROPN	O	ExtPos=PROPN|Gender=Masc|Number=Sing	20	nmod	_	_
+23	Aires	Aires	PROPN	O	Number=Sing	22	flat:name	_	SpaceAfter=No
+24	.	.	PUNCT	O	_	7	punct	_	_
+
+# newdoc_id = CF486
+# text = As vitrinas sempre guardam surpresas, variando desde o caro refinamento da avenida Montaigne (que concentra a alta costura, no Champs Elysèes) até as pechinchas nas pequenas lojas espalhadas pela cidade e nos magazines.
+# sent_id = CF486-1
+# source = CETENFolha n=486 cad=Turismo sec=soc sem=94a
+1	As	o	DET	B	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	vitrinas	vitrina	NOUN	I	Gender=Fem|Number=Plur	4	nsubj	_	_
+3	sempre	sempre	ADV	O	_	4	advmod	_	_
+4	guardam	guardar	VERB	O	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	surpresas	surpresa	NOUN	B	Gender=Fem|Number=Plur	4	obj	_	SpaceAfter=No
+6	,	,	PUNCT	O	_	7	punct	_	_
+7	variando	variar	VERB	O	VerbForm=Ger	4	advcl	_	_
+8	desde	desde	ADP	O	_	11	case	_	_
+9	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+10	caro	caro	ADJ	I	Gender=Masc|Number=Sing	11	amod	_	_
+11	refinamento	refinamento	NOUN	I	Gender=Masc|Number=Sing	7	obl	_	_
+12-13	da	_	_	I	_	_	_	_	_
+12	de	de	ADP	I	_	14	case	_	_
+13	a	o	DET	I	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	avenida	avenida	NOUN	I	Gender=Fem|Number=Sing	11	nmod	_	_
+15	Montaigne	Montaigne	PROPN	I	Gender=Fem|Number=Sing	14	appos	_	_
+16	(	(	PUNCT	O	_	18	punct	_	SpaceAfter=No
+17	que	que	PRON	O	Gender=Fem|Number=Sing|PronType=Rel	18	nsubj	_	_
+18	concentra	concentrar	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	_
+19	a	o	DET	O	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+20	alta	alto	ADJ	O	Gender=Fem|Number=Sing	21	amod	_	_
+21	costura	costura	NOUN	O	Gender=Fem|Number=Sing	18	obj	_	SpaceAfter=No
+22	,	,	PUNCT	O	_	25	punct	_	_
+23-24	no	_	_	O	_	_	_	_	_
+23	em	em	ADP	O	_	25	case	_	_
+24	o	o	DET	O	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+25	Champs	Champs	PROPN	O	ExtPos=PROPN|Gender=Masc|Number=Sing	18	obl	_	_
+26	Elysèes	Elysèes	PROPN	O	Number=Sing	25	flat:name	_	SpaceAfter=No
+27	)	)	PUNCT	O	_	18	punct	_	_
+28	até	até	ADP	O	_	30	case	_	_
+29	as	o	DET	B	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	30	det	_	_
+30	pechinchas	pechincha	NOUN	I	Gender=Fem|Number=Plur	18	obl	_	_
+31-32	nas	_	_	I	_	_	_	_	_
+31	em	em	ADP	I	_	34	case	_	_
+32	as	o	DET	I	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	34	det	_	_
+33	pequenas	pequeno	ADJ	I	Gender=Fem|Number=Plur	34	amod	_	_
+34	lojas	loja	NOUN	I	Gender=Fem|Number=Plur	30	nmod	_	_
+35	espalhadas	espalhar	VERB	I	Gender=Fem|Number=Plur|VerbForm=Part	34	acl	_	_
+36-37	pela	_	_	I	_	_	_	_	_
+36	por	por	ADP	I	_	38	case	_	_
+37	a	o	DET	I	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	38	det	_	_
+38	cidade	cidade	NOUN	I	Gender=Fem|Number=Sing	35	obl	_	_
+39	e	e	CCONJ	O	_	42	cc	_	_
+40-41	nos	_	_	O	_	_	_	_	_
+40	em	em	ADP	O	_	42	case	_	_
+41	os	o	DET	B	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	42	det	_	_
+42	magazines	magazine	NOUN	I	Gender=Masc|Number=Plur	38	conj	_	SpaceAfter=No
+43	.	.	PUNCT	O	_	4	punct	_	_
+
+# text = A reunião de bispos discutirá a vida de padres e freiras.
+# sent_id = CF202-3
+# source = CETENFolha n=202 cad=Mundo sec=pol sem=94b
+1	A	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	reunião	reunião	NOUN	I	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	de	de	ADP	I	_	4	case	_	_
+4	bispos	bispo	NOUN	I	Gender=Masc|Number=Plur	2	nmod	_	_
+5	discutirá	discutir	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+6	a	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	vida	vida	NOUN	I	Gender=Fem|Number=Sing	5	obj	_	_
+8	de	de	ADP	I	_	9	case	_	_
+9	padres	padre	NOUN	I	Gender=Masc|Number=Plur	7	nmod	_	_
+10	e	e	CCONJ	O	_	11	cc	_	_
+11	freiras	freira	NOUN	B	Gender=Fem|Number=Plur	9	conj	_	SpaceAfter=No
+12	.	.	PUNCT	O	_	5	punct	_	_
+
+# newdoc_id = CF763
+# text = Enquanto Gloria Pires ficou nervosa em sua estréia como modette, o marido Orlando Moraes amou e pediu bis.
+# sent_id = CF763-1
+# source = CETENFolha n=763 cad=Ilustrada sec=nd sem=94a
+1	Enquanto	enquanto	SCONJ	O	_	4	mark	_	_
+2	Gloria	Gloria	PROPN	I	ExtPos=PROPN|Gender=Fem|Number=Sing	4	nsubj	_	_
+3	Pires	Pires	PROPN	I	Number=Sing	2	flat:name	_	_
+4	ficou	ficar	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	advcl	_	_
+5	nervosa	nervoso	ADJ	O	Gender=Fem|Number=Sing	4	xcomp	_	_
+6	em	em	ADP	O	_	8	case	_	_
+7	sua	seu	DET	B	Gender=Fem|Number=Sing|PronType=Prs	8	det	_	_
+8	estréia	estréia	NOUN	I	Gender=Fem|Number=Sing	4	obl	_	_
+9	como	como	ADP	I	_	10	case	_	_
+10	modette	modette	NOUN	I	Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	O	_	4	punct	_	_
+12	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	marido	marido	NOUN	I	Gender=Masc|Number=Sing	16	nsubj	_	_
+14	Orlando	Orlando	PROPN	I	ExtPos=PROPN|Gender=Masc|Number=Sing	13	appos	_	_
+15	Moraes	Moraes	PROPN	I	Number=Sing	14	flat:name	_	_
+16	amou	amar	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+17	e	e	CCONJ	O	_	18	cc	_	_
+18	pediu	pedir	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	conj	_	_
+19	bis	bis	NOUN	B	Gender=Masc|Number=Sing	18	obj	_	SpaceAfter=No
+20	.	.	PUNCT	O	_	16	punct	_	_
+
+# newdoc_id = CF254
+# text = Argentina produz mais petróleo
+# sent_id = CF254-1
+# source = CETENFolha n=254 cad=Mundo sec=pol sem=94b
+1	Argentina	Argentina	PROPN	B	Gender=Fem|Number=Sing	2	nsubj	_	_
+2	produz	produzir	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mais	mais	DET	B	Gender=Masc|Number=Sing|PronType=Ind	4	det	_	_
+4	petróleo	petróleo	NOUN	I	Gender=Masc|Number=Sing	2	obj	_	_
+
+# text = O atentado teria sido planejado pelo grupo radical islâmico Gama'a al-Islamiya, que lançou campanha contra o governo egípcio em 1992 para a criação de um Estado Islâmico fundamentalista.
+# sent_id = CF674-2
+# source = CETENFolha n=674 cad=Mundo sec=pol sem=94a
+1	O	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	atentado	atentado	NOUN	I	Gender=Masc|Number=Sing	5	nsubj:pass	_	_
+3	teria	ter	AUX	O	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	5	aux	_	_
+4	sido	ser	AUX	O	VerbForm=Part	5	aux:pass	_	_
+5	planejado	planejar	VERB	O	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	_
+6-7	pelo	_	_	O	_	_	_	_	_
+6	por	por	ADP	O	_	8	case	_	_
+7	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	grupo	grupo	NOUN	I	Gender=Masc|Number=Sing	5	obl:agent	_	_
+9	radical	radical	ADJ	I	Gender=Masc|Number=Sing	8	amod	_	_
+10	islâmico	islâmico	ADJ	I	Gender=Masc|Number=Sing	8	amod	_	_
+11	Gama'a	Gama'a	PROPN	I	ExtPos=PROPN|Gender=Masc|Number=Sing	8	appos	_	_
+12	al-Islamiya	al-Islamiya	PROPN	I	Number=Sing	11	flat:name	_	SpaceAfter=No
+13	,	,	PUNCT	O	_	15	punct	_	_
+14	que	que	PRON	O	Gender=Masc|Number=Sing|PronType=Rel	15	nsubj	_	_
+15	lançou	lançar	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	acl:relcl	_	_
+16	campanha	campanha	NOUN	B	Gender=Fem|Number=Sing	15	obj	_	_
+17	contra	contra	ADP	I	_	19	case	_	_
+18	o	o	DET	I	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	governo	governo	NOUN	I	Gender=Masc|Number=Sing	22	nmod	_	_
+20	egípcio	egípcio	ADJ	I	Gender=Masc|Number=Sing	19	amod	_	_
+21	em	em	ADP	O	_	22	case	_	_
+22	1992	1992	NUM	O	NumType=Card	15	obl	_	_
+23	para	para	ADP	O	_	25	case	_	_
+24	a	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
+25	criação	criação	NOUN	I	Gender=Fem|Number=Sing	15	obl	_	_
+26	de	de	ADP	I	_	28	case	_	_
+27	um	um	DET	I	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
+28	Estado	estado	NOUN	I	Gender=Masc|Number=Sing	25	nmod	_	_
+29	Islâmico	islâmico	ADJ	I	Gender=Masc|Number=Sing	28	amod	_	_
+30	fundamentalista	fundamentalista	ADJ	I	Gender=Masc|Number=Sing	28	amod	_	SpaceAfter=No
+31	.	.	PUNCT	O	_	5	punct	_	_
+
+# text = Houve tiroteio.
+# sent_id = CF412-2
+# source = CETENFolha n=412 cad=Cotidiano sec=soc sem=94b
+1	Houve	haver	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	tiroteio	tiroteio	NOUN	B	Gender=Masc|Number=Sing	1	obj	_	SpaceAfter=No
+3	.	.	PUNCT	O	_	1	punct	_	_
+
+# text = O Chacal chegou ontem às 10h30 (5h30 no Brasil) ao Palácio da Justiça, usando algemas e cercado por um forte esquema de segurança.
+# sent_id = CF597-2
+# source = CETENFolha n=597 cad=Mundo sec=pol sem=94a
+1	O	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Chacal	Chacal	PROPN	I	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	chegou	chegar	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	ontem	ontem	ADV	O	_	3	advmod	_	_
+5-6	às	_	_	O	_	_	_	_	_
+5	a	a	ADP	O	_	7	case	_	_
+6	as	o	DET	O	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+7	10h30	10h30	NOUN	O	Gender=Fem|Number=Plur	3	obl	_	_
+8	(	(	PUNCT	O	_	9	punct	_	SpaceAfter=No
+9	5h30	5h30	NOUN	O	Gender=Fem|Number=Plur	7	appos	_	_
+10-11	no	_	_	O	_	_	_	_	_
+10	em	em	ADP	O	_	12	case	_	_
+11	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	Brasil	Brasil	PROPN	I	Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+13	)	)	PUNCT	O	_	9	punct	_	_
+14-15	ao	_	_	O	_	_	_	_	_
+14	a	a	ADP	O	_	16	case	_	_
+15	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	Palácio	Palácio	PROPN	I	Gender=Masc|Number=Sing	3	obj	_	_
+17-18	da	_	_	I	_	_	_	_	_
+17	de	de	ADP	I	_	19	case	_	_
+18	a	o	DET	I	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	Justiça	Justiça	PROPN	I	Number=Sing	16	nmod	_	SpaceAfter=No
+20	,	,	PUNCT	O	_	21	punct	_	_
+21	usando	usar	VERB	O	VerbForm=Ger	3	advcl	_	_
+22	algemas	algema	NOUN	B	Gender=Fem|Number=Plur	21	obj	_	_
+23	e	e	CCONJ	O	_	24	cc	_	_
+24	cercado	cercar	VERB	O	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	21	conj	_	_
+25	por	por	ADP	O	_	28	case	_	_
+26	um	um	DET	B	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
+27	forte	forte	ADJ	I	Gender=Masc|Number=Sing	28	amod	_	_
+28	esquema	esquema	NOUN	I	Gender=Masc|Number=Sing	24	obl:agent	_	_
+29	de	de	ADP	I	_	30	case	_	_
+30	segurança	segurança	NOUN	I	Gender=Fem|Number=Sing	28	nmod	_	SpaceAfter=No
+31	.	.	PUNCT	O	_	3	punct	_	_
+
+# text = Mas aceitei porque foi uma gentileza do governador», diz.
+# sent_id = CF168-7
+# source = CETENFolha n=168 cad=Brasil sec=pol sem=94a
+1	Mas	mas	CCONJ	O	_	2	cc	_	_
+2	aceitei	aceitar	VERB	O	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	12	parataxis	_	_
+3	porque	porque	ADV	O	_	6	advmod	_	_
+4	foi	ser	AUX	O	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
+5	uma	um	DET	B	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	gentileza	gentileza	NOUN	I	Gender=Fem|Number=Sing	2	advcl	_	_
+7-8	do	_	_	I	_	_	_	_	_
+7	de	de	ADP	I	_	9	case	_	_
+8	o	o	DET	I	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	governador	governador	NOUN	I	Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+10	»	»	PUNCT	O	_	2	punct	_	SpaceAfter=No
+11	,	,	PUNCT	O	_	12	punct	_	_
+12	diz	dizer	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	O	_	12	punct	_	_
+
+# text = Segundo ele, a proposta inicial é zonear no primeiro ano a Bacia do rio Meia Ponte.
+# sent_id = CF435-7
+# source = CETENFolha n=435 cad=Cotidiano sec=soc sem=94b
+1	Segundo	segundo	ADP	O	_	2	case	_	_
+2	ele	ele	PRON	O	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obl	_	SpaceAfter=No
+3	,	,	PUNCT	O	_	2	punct	_	_
+4	a	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	proposta	proposta	NOUN	I	Gender=Fem|Number=Sing	8	nsubj	_	_
+6	inicial	inicial	ADJ	I	Gender=Fem|Number=Sing	5	amod	_	_
+7	é	ser	AUX	O	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+8	zonear	zonear	VERB	O	VerbForm=Inf	0	root	_	_
+9-10	no	_	_	O	_	_	_	_	_
+9	em	em	ADP	O	_	12	case	_	_
+10	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+11	primeiro	primeiro	ADJ	I	Gender=Masc|Number=Sing|NumType=Ord	12	amod	_	_
+12	ano	ano	NOUN	I	Gender=Masc|Number=Sing	8	obl	_	_
+13	a	o	DET	I	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	Bacia	bacia	NOUN	I	Gender=Fem|Number=Sing	8	obj	_	_
+15-16	do	_	_	I	_	_	_	_	_
+15	de	de	ADP	I	_	17	case	_	_
+16	o	o	DET	I	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	rio	rio	NOUN	I	Gender=Masc|Number=Sing	14	nmod	_	_
+18	Meia	Meia	PROPN	I	ExtPos=PROPN|Gender=Masc|Number=Sing	17	appos	_	_
+19	Ponte	Ponte	PROPN	I	Number=Sing	18	flat:name	_	SpaceAfter=No
+20	.	.	PUNCT	O	_	8	punct	_	_
+
+# newdoc_id = CF798
+# text = Não se pense que esta ruptura modernizante passa pelo PT.
+# sent_id = CF798-1
+# source = CETENFolha n=798 cad=Dinheiro sec=eco sem=94b
+1	Não	não	ADV	O	Polarity=Neg	3	advmod	_	_
+2	se	se	PRON	O	Case=Acc|PronType=Prs	3	nsubj	_	_
+3	pense	pensar	VERB	O	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	que	que	SCONJ	O	_	8	mark	_	_
+5	esta	este	DET	B	Gender=Fem|Number=Sing|PronType=Dem	6	det	_	_
+6	ruptura	ruptura	NOUN	I	Gender=Fem|Number=Sing	8	nsubj	_	_
+7	modernizante	modernizante	ADJ	I	Gender=Fem|Number=Sing	6	amod	_	_
+8	passa	passar	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+9-10	pelo	_	_	O	_	_	_	_	_
+9	por	por	ADP	O	_	11	case	_	_
+10	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	PT	PT	PROPN	I	Gender=Masc|Number=Sing	8	obj	_	SpaceAfter=No
+12	.	.	PUNCT	O	_	3	punct	_	_
+
+# text = O governo não está errado em formular regras que possibilitem o alongamento.
+# sent_id = CF367-5
+# source = CETENFolha n=367 cad=Dinheiro sec=eco sem=94a
+1	O	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	governo	governo	NOUN	I	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	não	não	ADV	O	Polarity=Neg	5	advmod	_	_
+4	está	estar	AUX	O	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	errado	errado	ADJ	O	Gender=Masc|Number=Sing	0	root	_	_
+6	em	em	SCONJ	O	_	7	mark	_	_
+7	formular	formular	VERB	O	VerbForm=Inf	5	advcl	_	_
+8	regras	regra	NOUN	B	Gender=Fem|Number=Plur	7	obj	_	_
+9	que	que	PRON	O	Gender=Fem|Number=Plur|PronType=Rel	10	nsubj	_	_
+10	possibilitem	possibilitar	VERB	O	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
+11	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	alongamento	alongamento	NOUN	I	Gender=Masc|Number=Sing	10	obj	_	SpaceAfter=No
+13	.	.	PUNCT	O	_	5	punct	_	_
+
+# text = Afastado de seu companheiro de ataque, Stoichkov, pegou pouco na bola.
+# sent_id = CF123-3
+# source = CETENFolha n=123 cad=Esporte sec=des sem=94b
+1	Afastado	afastar	VERB	O	Gender=Masc|Number=Sing|VerbForm=Part	10	acl	_	_
+2	de	de	ADP	O	_	4	case	_	_
+3	seu	seu	DET	B	Gender=Masc|Number=Sing|PronType=Prs	4	det	_	_
+4	companheiro	companheiro	NOUN	I	Gender=Masc|Number=Sing	1	obj	_	_
+5	de	de	ADP	I	_	6	case	_	_
+6	ataque	ataque	NOUN	I	Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	O	_	8	punct	_	_
+8	Stoichkov	Stoichkov	PROPN	O	Gender=Masc|Number=Sing	4	appos	_	SpaceAfter=No
+9	,	,	PUNCT	O	_	8	punct	_	_
+10	pegou	pegar	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+11	pouco	pouco	ADV	O	_	10	advmod	_	_
+12-13	na	_	_	O	_	_	_	_	_
+12	em	em	ADP	O	_	14	case	_	_
+13	a	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	bola	bola	NOUN	I	Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
+15	.	.	PUNCT	O	_	10	punct	_	_
+
+# text = «Na Vila, quando recebo a bola, tenho que ficar olhando sua trajetória, para não ser surpreendido.
+# sent_id = CF12-2
+# source = CETENFolha n=12 cad=Caderno Especial sec=nd sem=94a
+1	«	«	PUNCT	O	_	13	punct	_	SpaceAfter=No
+2-3	Na	_	_	O	_	_	_	_	_
+2	Em	em	ADP	O	_	4	case	_	_
+3	a	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	Vila	vila	NOUN	I	Gender=Fem|Number=Sing	13	obl	_	SpaceAfter=No
+5	,	,	PUNCT	O	_	4	punct	_	_
+6	quando	quando	SCONJ	O	_	7	mark	_	_
+7	recebo	receber	VERB	O	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	advcl	_	_
+8	a	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	bola	bola	NOUN	I	Gender=Fem|Number=Sing	7	obj	_	SpaceAfter=No
+10	,	,	PUNCT	O	_	7	punct	_	_
+11	tenho	ter	AUX	O	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	aux	_	_
+12	que	que	SCONJ	O	_	13	mark	_	_
+13	ficar	ficar	VERB	O	VerbForm=Inf	0	root	_	_
+14	olhando	olhar	VERB	O	VerbForm=Ger	13	xcomp	_	_
+15	sua	seu	DET	B	Gender=Fem|Number=Sing|PronType=Prs	16	det	_	_
+16	trajetória	trajetória	NOUN	I	Gender=Fem|Number=Sing	14	obj	_	SpaceAfter=No
+17	,	,	PUNCT	O	_	21	punct	_	_
+18	para	para	SCONJ	O	_	21	mark	_	_
+19	não	não	ADV	O	Polarity=Neg	21	advmod	_	_
+20	ser	ser	AUX	O	VerbForm=Inf	21	aux:pass	_	_
+21	surpreendido	surpreender	VERB	O	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	14	advcl	_	SpaceAfter=No
+22	.	.	PUNCT	O	_	14	punct	_	_
+
+# text = Venezuela -- Miguel Angel Burelli Rivas (ministro das Relações Exteriores)
+# sent_id = CF67-3
+# source = CETENFolha n=67 cad=Brasil sec=pol sem=94b
+1	Venezuela	Venezuela	PROPN	B	Gender=Fem|Number=Sing	0	root	_	_
+2	--	--	PUNCT	O	_	1	punct	_	_
+3	Miguel	Miguel	PROPN	B	ExtPos=PROPN|Gender=Masc|Number=Sing	1	parataxis	_	_
+4	Angel	Angel	PROPN	I	Number=Sing	3	flat:name	_	_
+5	Burelli	Burelli	PROPN	I	Number=Sing	3	flat:name	_	_
+6	Rivas	Rivas	PROPN	I	Number=Sing	3	flat:name	_	_
+7	(	(	PUNCT	O	_	8	punct	_	SpaceAfter=No
+8	ministro	ministro	NOUN	O	Gender=Masc|Number=Sing	3	appos	_	_
+9-10	das	_	_	O	_	_	_	_	_
+9	de	de	ADP	O	_	11	case	_	_
+10	as	o	DET	O	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	Relações	Relações	PROPN	O	ExtPos=PROPN|Gender=Fem|Number=Plur	8	nmod	_	_
+12	Exteriores	Exteriores	PROPN	O	Number=Sing	11	flat:name	_	SpaceAfter=No
+13	)	)	PUNCT	O	_	8	punct	_	_
+
+# text = Até aqui, os tiros de Lula parecem não ter abalado o alvo.
+# sent_id = CF142-2
+# source = CETENFolha n=142 cad=Caderno Especial sec=nd sem=94a
+1	Até	até	ADP	O	_	2	case	_	_
+2	aqui	aqui	ADV	O	_	11	advmod	_	SpaceAfter=No
+3	,	,	PUNCT	O	_	2	punct	_	_
+4	os	o	DET	B	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	tiros	tiro	NOUN	I	Gender=Masc|Number=Plur	8	nsubj	_	_
+6	de	de	ADP	I	_	7	case	_	_
+7	Lula	Lula	PROPN	I	Gender=Masc|Number=Sing	5	nmod	_	_
+8	parecem	parecer	VERB	O	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	não	não	ADV	O	Polarity=Neg	11	advmod	_	_
+10	ter	ter	AUX	O	VerbForm=Inf	11	aux	_	_
+11	abalado	abalar	VERB	O	VerbForm=Part	8	xcomp	_	_
+12	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	alvo	alvo	NOUN	I	Gender=Masc|Number=Sing	11	obj	_	SpaceAfter=No
+14	.	.	PUNCT	O	_	11	punct	_	_
+
+# text = Moscou exige que conferência sobre segurança européia recompense a Sérvia por pressionar sérvios-bósnios
+# sent_id = CF788-2
+# source = CETENFolha n=788 cad=Mundo sec=pol sem=94a
+1	Moscou	Moscou	PROPN	B	Gender=Masc|Number=Sing	2	nsubj	_	_
+2	exige	exigir	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	que	que	SCONJ	O	_	8	mark	_	_
+4	conferência	conferência	NOUN	B	Gender=Fem|Number=Sing	8	nsubj	_	_
+5	sobre	sobre	ADP	I	_	6	case	_	_
+6	segurança	segurança	NOUN	I	Gender=Fem|Number=Sing	4	nmod	_	_
+7	européia	europeu	ADJ	I	Gender=Fem|Number=Sing	6	amod	_	_
+8	recompense	recompensar	VERB	O	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+9	a	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	Sérvia	Sérvia	PROPN	I	Gender=Fem|Number=Sing	8	obj	_	_
+11	por	por	SCONJ	O	_	12	mark	_	_
+12	pressionar	pressionar	VERB	O	VerbForm=Inf	8	xcomp	_	_
+13	sérvios-bósnios	sérvio-bosnio	NOUN	B	Gender=Masc|Number=Plur	12	obj	_	_
+
+# text = No parágrafo único do seu primeiro artigo, ele afirma que os candidatos não podem apresentar «patologia com perspectiva presente, de incapacidade no futuro».
+# sent_id = CF617-5
+# source = CETENFolha n=617 cad=Cotidiano sec=soc sem=94a
+1-2	No	_	_	O	_	_	_	_	_
+1	Em	em	ADP	O	_	3	case	_	_
+2	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	parágrafo	parágrafo	NOUN	I	Gender=Masc|Number=Sing	12	obl	_	_
+4	único	único	ADJ	I	Gender=Masc|Number=Sing	3	amod	_	_
+5-6	do	_	_	I	_	_	_	_	_
+5	de	de	ADP	I	_	9	case	_	_
+6	o	o	DET	I	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+7	seu	seu	DET	I	Gender=Masc|Number=Sing|PronType=Prs	9	det	_	_
+8	primeiro	primeiro	ADJ	I	Gender=Masc|Number=Sing|NumType=Ord	9	amod	_	_
+9	artigo	artigo	NOUN	I	Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	O	_	3	punct	_	_
+11	ele	ele	PRON	O	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+12	afirma	afirmar	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	que	que	SCONJ	O	_	18	mark	_	_
+14	os	o	DET	B	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	candidatos	candidato	NOUN	I	Gender=Masc|Number=Plur	17	nsubj	_	_
+16	não	não	ADV	O	Polarity=Neg	18	advmod	_	_
+17	podem	poder	VERB	O	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	ccomp	_	_
+18	apresentar	apresentar	VERB	O	VerbForm=Inf	17	xcomp	_	_
+19	«	«	PUNCT	O	_	20	punct	_	SpaceAfter=No
+20	patologia	patologia	NOUN	B	Gender=Fem|Number=Sing	18	obj	_	_
+21	com	com	ADP	I	_	22	case	_	_
+22	perspectiva	perspectiva	NOUN	I	Gender=Fem|Number=Sing	20	nmod	_	_
+23	presente	presente	ADJ	I	Gender=Fem|Number=Sing	22	amod	_	SpaceAfter=No
+24	,	,	PUNCT	O	_	26	punct	_	_
+25	de	de	ADP	O	_	26	case	_	_
+26	incapacidade	incapacidade	NOUN	B	Gender=Fem|Number=Sing	22	nmod	_	_
+27-28	no	_	_	I	_	_	_	_	_
+27	em	em	ADP	I	_	29	case	_	_
+28	o	o	DET	I	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
+29	futuro	futuro	NOUN	I	Gender=Masc|Number=Sing	26	nmod	_	SpaceAfter=No
+30	»	»	PUNCT	O	_	20	punct	_	SpaceAfter=No
+31	.	.	PUNCT	O	_	12	punct	_	_
+
+# text = Custa US$ 45 na Multimídia Center (tel 011 959-2650).
+# sent_id = CF853-10
+# source = CETENFolha n=853 cad=Informática sec=com sem=94b
+1	Custa	custar	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	US$	US$	SYM	O	_	1	obj	_	_
+3	45	45	NUM	O	NumType=Card	2	nummod	_	_
+4-5	na	_	_	O	_	_	_	_	_
+4	em	em	ADP	O	_	6	case	_	_
+5	a	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	Multimídia	Multimídia	PROPN	I	ExtPos=PROPN|Gender=Fem|Number=Sing	1	obl	_	_
+7	Center	Center	PROPN	I	Number=Sing	6	flat:name	_	_
+8	(	(	PUNCT	O	_	9	punct	_	SpaceAfter=No
+9	tel	tel	NOUN	O	Gender=Masc|Number=Sing	6	appos	_	_
+10	011	011	NUM	O	NumType=Card	9	fixed	_	_
+11	959-2650	959-2650	NUM	O	NumType=Card	9	flat	_	SpaceAfter=No
+12	)	)	PUNCT	O	_	9	punct	_	SpaceAfter=No
+13	.	.	PUNCT	O	_	1	punct	_	_
+
+# text = A partir do dia 17, a Playtronic também terá um estande no Iguatemi.
+# sent_id = CF97-6
+# source = CETENFolha n=97 cad=Cotidiano sec=soc sem=94b
+1	A	a	ADP	O	ExtPos=ADP	5	case	_	_
+2	partir	partir	NOUN	O	_	1	fixed	_	_
+3-4	do	_	_	O	_	_	_	_	_
+3	de	de	ADP	O	_	1	fixed	_	_
+4	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	dia	dia	NOUN	I	Gender=Masc|Number=Sing	11	obl	_	_
+6	17	17	NUM	I	NumType=Card	5	nummod	_	SpaceAfter=No
+7	,	,	PUNCT	O	_	11	punct	_	_
+8	a	o	DET	B	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	Playtronic	Playtronic	PROPN	I	Gender=Fem|Number=Sing	11	nsubj	_	_
+10	também	também	ADV	O	_	11	advmod	_	_
+11	terá	ter	VERB	O	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+12	um	um	DET	B	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	estande	estande	NOUN	I	Gender=Masc|Number=Sing	11	obj	_	_
+14-15	no	_	_	I	_	_	_	_	_
+14	em	em	ADP	I	_	16	case	_	_
+15	o	o	DET	I	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	Iguatemi	Iguatemi	PROPN	I	Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
+17	.	.	PUNCT	O	_	11	punct	_	_
+
+# newdoc_id = CF474
+# text = Os motoristas da EMTU (Empresa Metropolitana de Transportes Urbanos), empresa do governo do Estado, têm o mesmo piso salarial das empresas privadas.
+# sent_id = CF474-1
+# source = CETENFolha n=474 cad=Cotidiano sec=soc sem=94a
+1	Os	o	DET	B	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	motoristas	motorista	NOUN	I	Gender=Masc|Number=Plur	22	nsubj	_	_
+3-4	da	_	_	I	_	_	_	_	_
+3	de	de	ADP	I	_	5	case	_	_
+4	a	o	DET	I	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	EMTU	EMTU	PROPN	I	Gender=Fem|Number=Sing	2	nmod	_	_
+6	(	(	PUNCT	O	_	7	punct	_	SpaceAfter=No
+7	Empresa	Empresa	PROPN	O	ExtPos=PROPN|Gender=Fem|Number=Sing	5	appos	_	_
+8	Metropolitana	Metropolitana	PROPN	O	Number=Sing	7	flat:name	_	_
+9	de	de	ADP	O	_	10	case	_	_
+10	Transportes	Transportes	PROPN	O	ExtPos=PROPN|Number=Sing	7	nmod	_	_
+11	Urbanos	Urbanos	PROPN	O	Number=Sing	10	flat:name	_	SpaceAfter=No
+12	)	)	PUNCT	O	_	7	punct	_	SpaceAfter=No
+13	,	,	PUNCT	O	_	14	punct	_	_
+14	empresa	empresa	NOUN	O	Gender=Fem|Number=Sing	5	appos	_	_
+15-16	do	_	_	O	_	_	_	_	_
+15	de	de	ADP	O	_	17	case	_	_
+16	o	o	DET	O	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	governo	governo	NOUN	O	Gender=Masc|Number=Sing	14	nmod	_	_
+18-19	do	_	_	O	_	_	_	_	_
+18	de	de	ADP	O	_	20	case	_	_
+19	o	o	DET	O	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	Estado	estado	NOUN	O	Gender=Masc|Number=Sing	17	nmod	_	SpaceAfter=No
+21	,	,	PUNCT	O	_	14	punct	_	_
+22	têm	ter	VERB	O	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+23	o	o	DET	O	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+24	mesmo	mesmo	ADJ	O	Gender=Masc|Number=Sing	25	amod	_	_
+25	piso	piso	NOUN	B	Gender=Masc|Number=Sing	22	obj	_	_
+26	salarial	salarial	ADJ	I	Gender=Masc|Number=Sing	25	amod	_	_
+27-28	das	_	_	I	_	_	_	_	_
+27	de	de	ADP	I	_	29	case	_	_
+28	as	o	DET	I	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	29	det	_	_
+29	empresas	empresa	NOUN	I	Gender=Fem|Number=Plur	25	nmod	_	_
+30	privadas	privado	ADJ	I	Gender=Fem|Number=Plur	29	amod	_	SpaceAfter=No
+31	.	.	PUNCT	O	_	22	punct	_	_
+
+# text = Infância:
+# sent_id = CF74-2
+# source = CETENFolha n=74 cad=Revista Folha sec=nd sem=94b
+1	Infância	infância	NOUN	B	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	O	_	1	punct	_	_
+
+# text = No ataque
+# sent_id = CF319-14
+# source = CETENFolha n=319 cad=Esporte sec=des sem=94a
+1-2	No	_	_	O	_	_	_	_	_
+1	Em	em	ADP	O	_	3	case	_	_
+2	o	o	DET	B	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	ataque	ataque	NOUN	I	Gender=Masc|Number=Sing	0	root	_	_
+
